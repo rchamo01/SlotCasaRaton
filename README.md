@@ -1,12 +1,12 @@
-# Destellos del Universo
+# Casa Ratón Scalextric
 
-Página web oficial del proyecto *Destellos del Universo*, creada y publicada en 2022.
+Página web oficial de *Casa Ratón Scalextric*, creada y publicada en 2024.
 
 ## Acceso a la web:
 Existen una URL de acceso a la web online:
-- URL de Github Pages: https://cslab-upm.github.io/destellosdeluniverso/
+- URL de Github Pages: https://cslab-upm.github.io/casaRatonScalextric/
 
-Se dispone de la URL de Github Pages que se genera automáticamente al hacer uso de Jekyll como creador de sitios web estáticos y que de acuerdo con las políticas de Github no tendrá ningún coste. Esta URL se trata de una web de proyecto que deriva de la web oficial del grupo también publicada con Github Pages en la dirección https://cslab-upm.github.io/.
+Se dispone de la URL de Github Pages que se genera automáticamente al hacer uso de Jekyll como creador de sitios web estáticos y que de acuerdo con las políticas de Github no tendrá ningún coste. Esta URL se trata de una web de proyecto que deriva de la web oficial del grupo también publicada con Github Pages en la dirección https://rchamo01.github.io/.
 
 ## Ramas del proyecto:
 El proyecto actualmente cuenta con dos ramas master y gh-pages que se describen a continuación:
