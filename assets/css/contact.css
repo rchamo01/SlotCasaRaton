@@ -1,0 +1,25 @@
+#about-us {
+    color: #fff;;
+    padding: 3em;
+    text-align: center;
+}
+#about-us h1{
+    margin-bottom: 1em;
+}
+
+
+#contact-info {
+    color: #fff;;
+    padding: 3em;
+    text-align: center;
+}
+#contact-info h1 {
+    margin-bottom: 1em;
+}
+.contact-form {
+    width: 70vw;
+    height: 120vh;
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards; 
+}

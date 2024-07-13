@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<!-- Header -->
+<section id="banner">
+    <div class="banner-inner">
+        <h1 class="banner-title">{{ site.data.home.title }}</h1>
+        <h2 class="banner-subtitle">{{ site.data.home.subtitle }}</h2>
+        <a class="quick-access" target="_blank" href="https://www.zooniverse.org/projects/cslab-upm/flashes-of-the-universe">¡Busca meteoros en nuestros videos! (prueba la versión beta)</a>
+    </div>
+</section>
+
+<!-- About the project -->
+<section id="about-project">
+        <h2>{{ site.data.home.about }}</h2>
+        <p>{{ site.data.home.excerpt }}</p>
+        {%- if site.data.home.url contains '://' -%}
+            {%- assign url = site.data.home.url -%}
+        {%- else -%}
+            {%- assign url = site.data.home.url | relative_url -%}
+        {%- endif -%}
+        <a href="{{ url }}">{{ site.data.home.more }}</a> 
+</section>
+
+<!-- Streaming radio -->
+<!--<section id="radio">
+    <h2>{{ site.data.home.radio }}</h2>
+    <p>{{ site.data.home.stations }}</p>
+    {%- if site.data.radio.stations -%}
+        {%- for station in site.data.radio.stations -%}
+            <div class="radio-station">
+                <h5>{{ station.name }}</h5>
+                <audio xmlns="http://www.w3.org/1999/xhtml" controls="controls" preload="none" controlslist="nodownload">
+                    <source src="{{ station.url }}" type="application/ogg">
+                </audio>
+                <p>Descarga: 
+                    <a href="{{ station.m3u }}">M3U</a> 
+                    <a href="{{ station.xspf }}">XSPF</a>
+                </p>
+            </div>
+        {%- endfor -%}
+    {%- endif -%}
+</section>-->
+
+<!-- News -->
+<section id="last-news">
+    <h2>{{ site.data.home.news }}</h2>
+    {% assign psize = site.prensa | size %}
+    {% if psize == 0 %} 
+    <div class="news-empty">
+        <p>{{ site.data.home.empty-msg }}</p>
+        <img src="{{ site.data.home.empty-img }}">
+    </div>
+    {% else %}
+    <div class="flex-row">
+        {%- for entry in site.prensa limit: 9 -%}
+        <div class="news-card">
+            <a href="{{ entry.url | relative_url}}">
+                <div class="card-filter"></div>
+                <img class="card-thumbnail" src="{{ entry.image.thumbnail }}" alt="">
+            </a>
+        </div>
+        {%- endfor -%}
+    </div>
+    {% endif %}
+
+</section>

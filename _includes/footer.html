@@ -1,0 +1,31 @@
+<footer id="footer" class="site-footer">
+    <div class="inner">
+        <div class="social-icons">
+            {%- if site.footer_links -%}
+            {%- for footer_link in site.footer_links -%}
+                {%- if footer_link.url contains "://" -%}
+                    {%- assign url = footer_link.url -%}
+                {%- else -%}
+                    {%- assign url = footer_link.url | relative_url -%}
+                {%- endif -%}
+                <a title="{{ footer_link.title }}" class="social-icon {{ footer_link.icon | default: 'fas fa-link' }}" href="{{ url }}"></a>
+            {%- endfor -%}
+            {%- endif -%}
+        </div>
+        <div class="logos">
+            {%- if site.footer_logos -%}
+            {%- for footer_logo in site.footer_logos -%}
+                {%- if footer_logo.url contains "://" -%}
+                    {%- assign url = footer_logo.url -%}
+                {%- else -%}
+                    {%- assign url = footer_logo.url | relative_url -%}
+                {%- endif -%}
+                <img src="{{ url }}" alt="{{ footer_logo.title }}" class="logo {{ footer_logo.image | default: '' }}">
+            {%- endfor -%}
+            {%- endif -%}
+        </div>
+        <div class="financing">
+            <p>Con la colaboración de la <a href="https://www.fecyt.es/">Fundación Española para la Ciencia y la Tecnología</a> - <a href="https://www.ciencia.gob.es">Ministerio de Ciencia e Innovación</a></p>
+        </div>
+    </div>
+</footer>

@@ -1,0 +1,20 @@
+#post-image img {
+    width: 100%;
+    max-height: 70vh;
+}
+pre {
+    color: #fff;
+    background-color: #3b426a;
+}
+#project-content figure {
+    width: 100% !important;
+}
+.post-info {
+    background-color: #6fc3df;
+    color: black;
+    font-weight: 500;
+    padding: 10px 39px 10px 10px;
+    position: relative;
+    top: -70px;
+    width: fit-content;
+}

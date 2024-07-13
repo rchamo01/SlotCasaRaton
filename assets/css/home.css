@@ -1,0 +1,233 @@
+#banner {
+    background-attachment: fixed;
+    background-image: url(/destellosdeluniverso/docs/images/fondo1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: 0 !important;
+    color: #fff;
+    cursor: default;
+    display: block;
+    height: 90vh;
+    max-height: 50em;
+    min-height: 30em;
+    padding: 15em 0 2em 0;
+    position: relative;
+    top: 0;
+}
+.banner-inner {
+    margin: 0 3em 0 3em;
+}
+#banner:after {
+    -moz-transition: opacity 2.5s ease;
+    -webkit-transition: opacity 2.5s ease;
+    -ms-transition: opacity 2.5s ease;
+    transition: opacity 2.5s ease;
+    -moz-transition-delay: 0.75s;
+    -webkit-transition-delay: 0.75s;
+    -ms-transition-delay: 0.75s;
+    transition-delay: 0.75s;
+    /*-moz-pointer-events: none;*/
+    /*-webkit-pointer-events: none; */
+    /*-ms-pointer-events: none;*/
+    /* pointer-events: none; */
+    background-color: #172232;/*#242943;*/
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0.85;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+.banner-title {
+    font-size: 5em;
+    z-index: 2;
+    position: relative;
+}
+.banner-subtitle {
+    font-size: 2em;
+    z-index: 2;
+    position: relative;
+    font-style: italic;
+}
+
+/* Section about project */
+#about-project {
+    text-align: center;
+    padding: 6em 0 6em 0;
+    margin: 0 3em 0 3em;
+    color: #ffff;
+}
+#about-project a {
+    color: #6fc3df; /* rgba(244,244,255,0.2);*/
+    font-size: 18px;
+}
+#about-project a:hover {
+    color: #FF9ABE;/* #6fc3df;*/
+}
+h2 {
+    margin-bottom: 1em;
+}
+#about-project p {
+    font-size: 18px;
+}
+/* Section radio */
+#radio {
+    border-top: solid 1px rgba(212,212,255,0.1);
+    text-align: center;
+    padding: 6em 0 6em 0;
+    margin: 0 3em 0 3em;
+    color: #ffff;
+}
+#radio a {
+    color: #6fc3df; /* rgba(244,244,255,0.2);*/
+    font-size: 18px;
+}
+#radio a:hover {
+    color: #FF9ABE;/* #6fc3df;*/
+}
+#radio h5 {
+    color: #999999;
+}
+#radio p {
+    font-size: 18px;
+}
+.radio-station {
+    margin-top: 50px;
+}
+
+/* Section News */
+#last-news {
+    border-top: solid 1px rgba(212,212,255,0.1);
+    color: #ffff;
+    margin: 0 3em 0 3em;
+    padding: 6em 0 6em 0;
+    text-align: center;
+}
+.news-card {
+    position: relative;
+    margin: 5px;
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards; 
+}
+.news-card a {
+    color: #fff;
+}
+.card-filter {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    transition: 0.5s;
+    background-color: #FF9ABE;
+    opacity: 0;
+}
+.news-card:hover .card-filter{
+    opacity: 0.75;
+}
+.card-thumbnail {
+    height: 100%;
+    width: 100%;
+}
+.card-info {
+    position: absolute;
+    left: 2.5%;
+    bottom: 10%;
+}
+.card-date {
+    font-size: 0.9rem;
+    margin: 0 0 1rem 0;
+    text-align: left;
+    text-transform: uppercase;
+}
+.card-date::after {
+    content: "";
+    display: block;
+    width: 40px;
+    margin-top: 0.3rem;
+    border-top: 3px solid #6fc3df;
+}
+.card-title {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 0 0 0.5rem 0;
+}
+.flex-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.quick-access {
+    position: relative;
+    z-index: 2;
+    background-color: #ffffff24;
+    border: solid 1px #6fc3df;
+    margin: 20px 0 20px 0;
+    color: #6fc3df;
+    font-size: 20px;
+    padding: 5px 30px;
+}
+.quick-access:hover {
+    color: #FF9ABE;/* #8d82c4; */
+    border: solid 1px #FF9ABE; /* #8d82c4; */
+}
+.news-empty {
+    font-size: 18px;
+}
+.news-empty img{
+    height: 5em;
+}
+
+@media screen and (min-width: 600px) {
+    .news-card {
+        width: 100%;    
+    }
+}
+@media screen and (max-width: 667px) {
+    #banner {
+        padding: 10em 0 2em 1em;
+    }
+    .banner-title {
+        font-size: 4em;
+    }
+    .banner-subtitle {
+        font-size: 1.5em;
+    }
+    .contact-form {
+        height: 190vh !important;
+    }
+
+}
+@media screen and (min-width: 768px) {
+    .news-card {
+        width: 48%;    
+    }
+}
+@media screen and (min-width: 1200px) {
+    .news-card {
+        width: 32.333%;
+    }
+}
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+     } 
+} 
+
+@media only screen and (max-width: 600px) {
+    .quick-access {
+    position: relative;
+    z-index: 2;
+    background-color: #ffffff24;
+    border: solid 1px #6fc3df;
+    margin: 20px 0 20px 0;
+    color: #6fc3df;
+    font-size: 12px;
+    padding: 5px 30px;
+    }
+}
