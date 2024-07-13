@@ -1,0 +1,13 @@
+# Sections info
+title: Destellos del Universo
+subtitle: ¿Nos ayudas a analizar datos de nuestras cámaras del cielo?
+about: Sobre el proyecto
+excerpt: "“Destellos del universo” es una continuación de otros dos proyectos anteriores “Contadores de Estrellas” (FCT‐17‐12520) y “Sonidos del cielo” (FCT-19-14616), ambos en colaboración con la FECYT. Estos tres proyectos se centran en el estudio del Sistema Solar y, en concreto, de las lluvias de estrellas o meteoros. \nEn “Contadores de estrellas” se desarrollaron diversas actividades para animar al público general para participar en los conteos de meteoros durante las lluvias de estrellas, por medio de los ojos como instrumento de observación. Por otra parte, “Sonidos del cielo” analiza las lluvias de estrellas utilizando otra infraestructura diferente(:) las estaciones de radiodetección. Se desarrolló un experimento de ciencia ciudadana utilizando diferentes interfaces, entre las cuales destacamos el uso de chatbots, para que personas invidentes, niños y público general clasificaran los ecos/sonidos. “Destellos del universo” quiere seguir estudiando los meteoros desde otra perspectiva, por medio de una **infraestructura de cámaras del cielo (en inglés, allsky)**. Son cámaras de gran campo que están grabando el cielo de forma continuada y se suelen utilizar para monitorizar el cielo (nubosidad, brillo de fondo de cielo, ...) y registrar fenómenos transitorios como bólidos (meteoros muy brillantes)." 
+more: Ver más
+url: /proyecto/
+news: Noticias
+empty-msg: No hay noticias por el momento...
+empty-img: /docs/images/empty.png
+
+#radio: Radio streaming
+#stations: Escucha nuestro streaming con sonidos del cielo detectados en directo desde las estaciones de Fuenlabrada y el Complejo Astronómico e-EyE.

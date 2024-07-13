@@ -1,0 +1,27 @@
+# Sections info
+title: Contacta
+
+about: El equipo
+excerpt: La realización de este proyecto ha sido posible gracias a la colaboración de la Universidad Politécnica de Madrid a través del grupo CSLab, 
+ el grupo Kepler, el Instituto de Astronomía de Canarias (IAC), y gracias también a la financiación de la Fundación Española para Ciencia 
+ y Tecnología de España (FECYT). 
+ 
+participants: 
+  - organization: Universidad Politécnica de Madrid
+    logo:
+    url: 
+  - organization: CSLab
+    logo:
+    url:
+  - organization: Kepler
+    logo:
+    url:
+  - organization: Instituto de Astronomía de Canarias 
+    logo:
+    url: 
+  - organization: Fundación Española para Ciencia y Tecnología de España
+    logo:
+    url: 
+
+contact: Contacta con nosotros
+contact-info: Si deseas ponerte en contacto con nosotros rellena el formulario que encontrarás a continuación.

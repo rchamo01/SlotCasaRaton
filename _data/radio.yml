@@ -1,0 +1,9 @@
+#stations:
+#  - name: Estación de Fuenlabrada
+#    url: https://chatbots.ieef.upm.es:8443/fuenlabrada
+#    m3u: https://chatbots.ieef.upm.es:8443/fuenlabrada.m3u
+#    xspf: https://chatbots.ieef.upm.es:8443/fuenlabrada.xspf
+#  - name: Complejo astronómico e-EyE (Actualmente no disponible)
+#    url: http://161.72.128.8:8000/entre_encinas_y_estrellas
+#    m3u: http://161.72.128.8:8000/entre_encinas_y_estrellas.m3u
+#    xspf: http://161.72.128.8:8000/entre_encinas_y_estrellas.xspf
