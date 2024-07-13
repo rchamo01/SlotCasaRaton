@@ -1,0 +1,98 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Destellos del Universo
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Página oficial del proyecto de investigación de ciencia ciudadana Destellos del Universo.
+  Descubre este proyecto y colabora en la clasificación de meteoros a través de nuestra aplicación. 
+  Gracias a la gamificación y uso de herramientas de lenguaje natural hacemos la ciencia accesible a más personas.
+baseurl: "/destellosdeluniverso/" # the subpath of your site, e.g. /blog
+url: "https://cslab-upm.github.io/destellosdeluniverso/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: cslabupm
+github_username:  cslab-upm
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Google fonts
+google_fonts:
+  - name: "Roboto"
+    weights: "300,400,500,700"
+
+# Footer Links
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/cslabupm
+    icon: fa fab fa-twitter
+  - title: Instagram
+    url: https://www.instagram.com/cslabupm
+    icon: fa fab fa-instagram
+  - title: Facebook
+    url: https://www.facebook.com/cslabupm/
+    icon: fa fab fa-facebook-f
+
+# Footer logos
+footer_logos:
+  - title: Logo UPM
+    url: /docs/images/logos/LOGOTIPO_UPM_leyenda_color_PNG.png
+    image: 
+  - title: Logo Kepler
+    url: /docs/images/logos/LOGOTIPO_kepler_PNG.png
+    image: 
+  - title: Logo Instituto de Astrofísica de Canarias
+    url: /docs/images/logos/LOGOTIPO_IAC_PNG.png
+    image: 
+  - title: Logo de la Agrupación Astronómica de Madrid Sur
+    url: /docs/images/logos/LOGOTIPO_AAMS_PNG.png
+    image:
+  - title: Logo Fundación Española para la Ciencia y la Tecnología
+    url: /docs/images/logos/LOGOTIPO_ministerio-fecyt-con-banderas-01.svg
+    image: 
+
+    
+
+# Collections
+collections:
+  prensa:
+    output: true
+    permalink: /:collection/:name
+
+    
+# Front Matter Defaults
+defaults:
+  # Recipe defaults
+  - scope:
+      path: "_prensa"
+      type: prensa
+    values:
+      layout: post
+      comments: true
+      share: true
