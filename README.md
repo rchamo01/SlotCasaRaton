@@ -6,7 +6,7 @@ Página web oficial de *Casa Ratón Scalextric*, creada y publicada en 2024.
 Existen una URL de acceso a la web online:
 - URL de Github Pages: https://cslab-upm.github.io/casaRatonScalextric/
 
-Se dispone de la URL de Github Pages que se genera automáticamente al hacer uso de Jekyll como creador de sitios web estáticos y que de acuerdo con las políticas de Github no tendrá ningún coste. Esta URL se trata de una web de proyecto que deriva de la web oficial del grupo también publicada con Github Pages en la dirección https://rchamo01.github.io/.
+Se dispone de la URL de Github Pages que se genera automáticamente al hacer uso de Jekyll como creador de sitios web estáticos y que de acuerdo con las políticas de Github no tendrá ningún coste. Página web creada por el usuario de GitHub: [https://rchamo01.github.io](https://github.com/rchamo01/)/.
 
 ## Ramas del proyecto:
 El proyecto actualmente cuenta con dos ramas master y gh-pages que se describen a continuación:
