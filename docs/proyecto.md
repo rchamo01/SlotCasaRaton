@@ -1,7 +1,7 @@
 ---
 title: Proyecto
 layout: project
-permalink: /proyecto/
+permalink: /CasaRatonScalextric/proyecto/
 ---
 
 
