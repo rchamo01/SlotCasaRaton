@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Destellos del Universo
+title: Casa Raton Scalextric
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Página oficial del proyecto de investigación de ciencia ciudadana Destellos del Universo.
-  Descubre este proyecto y colabora en la clasificación de meteoros a través de nuestra aplicación. 
-  Gracias a la gamificación y uso de herramientas de lenguaje natural hacemos la ciencia accesible a más personas.
-baseurl: "/destellosdeluniverso/" # the subpath of your site, e.g. /blog
-url: "https://cslab-upm.github.io/destellosdeluniverso/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cslabupm
-github_username:  cslab-upm
+  Prueba011.
+baseurl: "/CasaRatonScalextric/" # the subpath of your site, e.g. /blog
+url: "https://rchamo01.github.io/CasaRatonScalextric/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  
 
 # Build settings
 markdown: kramdown
