@@ -48,34 +48,23 @@ google_fonts:
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/cslabupm
+    url: 
     icon: fa fab fa-twitter
   - title: Instagram
-    url: https://www.instagram.com/cslabupm
+    url: 
     icon: fa fab fa-instagram
   - title: Facebook
-    url: https://www.facebook.com/cslabupm/
+    url: 
     icon: fa fab fa-facebook-f
 
 # Footer logos
 footer_logos:
-  - title: Logo UPM
-    url: /docs/images/logos/LOGOTIPO_UPM_leyenda_color_PNG.png
+  - title: Logo Chamo Design
+    url: /docs/images/Logo_chamo_design.png
     image: 
-  - title: Logo Kepler
-    url: /docs/images/logos/LOGOTIPO_kepler_PNG.png
+  - title: Logo MaJos
+    url: /docs/images/Logo_majos.png
     image: 
-  - title: Logo Instituto de Astrofísica de Canarias
-    url: /docs/images/logos/LOGOTIPO_IAC_PNG.png
-    image: 
-  - title: Logo de la Agrupación Astronómica de Madrid Sur
-    url: /docs/images/logos/LOGOTIPO_AAMS_PNG.png
-    image:
-  - title: Logo Fundación Española para la Ciencia y la Tecnología
-    url: /docs/images/logos/LOGOTIPO_ministerio-fecyt-con-banderas-01.svg
-    image: 
-
-    
 
 # Collections
 collections:
