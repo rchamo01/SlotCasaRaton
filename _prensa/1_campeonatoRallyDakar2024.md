@@ -1,5 +1,5 @@
 ---
-title: "Jornada divulgativa del proyecto Destellos del Universo"
+title: "Primer Torneo Rally Dakar 2024"
 image: 
   thumbnail: docs/images/rallydakarjunio.jpeg
 categories:
