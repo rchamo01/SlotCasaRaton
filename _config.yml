@@ -83,3 +83,10 @@ defaults:
       layout: post
       comments: true
       share: true
+  - scope:
+      path: "_diy"
+      type: diy
+    values:
+      layout: post
+      comments: true
+      share: true
