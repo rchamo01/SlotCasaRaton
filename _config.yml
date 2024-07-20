@@ -87,6 +87,6 @@ defaults:
       path: "_diy"
       type: diy
     values:
-      layout: diy
+      layout: ldiy
       comments: true
       share: true
