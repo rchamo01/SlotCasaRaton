@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<section id="banner-title">
+    <h1>Do It Yourself</h1>
+</section>
+<section id="last-news">
+    {% assign psize = site.prensa | size %}
+    {% if psize == 0 %} 
+    <div class="news-empty">
+        <p>{{ site.data.home.empty-msg }}</p>
+        <img src="{{ site.data.home.empty-img }}">
+    </div>
+    {% else %}
+    <div class="flex-row">
+        {% assign psize = site.prensa | size %}
+        {% if psize == 0 %} 
+        <div class="news-empty">
+            <p>{{ site.data.home.empty-msg }}</p>
+            <img src="{{ site.data.home.empty-img | relative_url }}">
+        </div>        
+        {% else %}
+        {%- for entry in site.prensa -%}
+        <div class="news-card">
+            <a href="{{ entry.url | relative_url}}">
+                <div class="card-filter"></div>
+                <img class="card-thumbnail" src="../{{ entry.image.thumbnail }}" alt="">
+            </a>
+        </div>
+        {%- endfor -%}
+        {% endif %}
+    </div>
+    {% endif %}
+</section>
