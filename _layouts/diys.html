@@ -5,7 +5,7 @@ layout: default
     <h1>Do It Yourself</h1>
 </section>
 <section id="last-news">
-    {% assign psize = site.prensa | size %}
+    {% assign psize = site.diy | size %}
     {% if psize == 0 %} 
     <div class="news-empty">
         <p>{{ site.data.home.empty-msg }}</p>
@@ -13,14 +13,14 @@ layout: default
     </div>
     {% else %}
     <div class="flex-row">
-        {% assign psize = site.prensa | size %}
+        {% assign psize = site.diy | size %}
         {% if psize == 0 %} 
         <div class="news-empty">
             <p>{{ site.data.home.empty-msg }}</p>
             <img src="{{ site.data.home.empty-img | relative_url }}">
         </div>        
         {% else %}
-        {%- for entry in site.prensa -%}
+        {%- for entry in site.diy -%}
         <div class="news-card">
             <a href="{{ entry.url | relative_url}}">
                 <div class="card-filter"></div>
