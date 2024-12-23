@@ -24,7 +24,10 @@ La competición fue reñida hasta el último minuto, con pilotos ajustando sus t
 
 El ganador utilizó un Ferrari 360 GTC de Scalextric, que, gracias a su motor y a una preparación minuciosa, logró mantener un ritmo constante y evitar los errores que suelen ser fatales en pruebas de resistencia. Los participantes comentaron la emoción de ver estos legendarios coches en acción, recordando la historia y la pasión que rodea a los modelos Ferrari en el mundo del Scalextric.
 
-![](../docs/images/evento_diciembre_2024_04.mp4)
+
+https://github.com/user-attachments/assets/68d3d4d0-7312-4ab1-9078-49ebaf4604f7
+
+
 
 Este evento no solo fue una celebración del hobby del Scalextric, sino también un homenaje al diseño y desempeño del Ferrari 360 GTC, consolidando su lugar en la historia de los coches de slot. La comunidad espera con ansias más eventos similares que mantengan viva la emoción y la tradición de este pasatiempo
 
