@@ -12,7 +12,7 @@ date: 22-diciembre-2024
 
 Fue un emocionante evento celebrado el 22 de diciembre de 2024, celebrando la Navidad. Los aficionados del Club Casa Ratón Scalextric tuvieron la oportunidad de presenciar una competición única en su género. El evento se centró en la categoría de coches tipo Ferrari, destacando por su modalidad de resistencia durante 24 minutos intensos.
 
-La pista, meticulosamente diseñada, recreaba los desafíos de un circuito real, el circuito del Jarama, con curvas cerradas y rectas donde la velocidad podía ser decisiva. Participaron varios modelos del Ferrari 360 GTC, de la marca Scalextric.
+La pista, meticulosamente diseñada, recreaba los desafíos de un circuito real, el circuito del Jarama, con curvas cerradas y rectas donde la velocidad podía ser decisiva. Participaron varios modelos del Ferrari 360 GTC Modena y Ferrari 550 GTS Maranello, de la marca Scalextric.
 
 ![](../docs/images/evento_diciembre_2024_01.jpeg)
 
