@@ -7,6 +7,9 @@ categories:
 tags:
   - Scalextric
   - Club Casa Raton Scalextric
+date: 28-Junio-2024
 ---
 
-Prueba004
+![](../docs/images/evento_junio_2024_01.jpeg)
+
+![](../docs/images/evento_junio_2024_02.jpeg)
