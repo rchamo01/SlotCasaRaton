@@ -13,7 +13,7 @@ La atmósfera del club es de camaradería y diversión, donde la competición se
 
 ![](../docs/images/evento_diciembre_2024_01.jpeg)
 
-![](../docs/images/evento_diciembre_2024_01.jpeg)
+![](../docs/images/evento_junio_2024_01.jpeg)
 
 Una de las tradiciones más destacadas del club es el "premio patata", un reconocimiento humorístico y simbólico que se otorga al perdedor de cada competición. Este premio tiene su origen en las primeras competiciones cuando algunos coches no funcionaban o eran demasiado lentos. Alguien sugirió que una patata seria mas rapida
 
