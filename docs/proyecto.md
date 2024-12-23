@@ -11,7 +11,7 @@ El club Casa Ratón Scalextric es un espacio vibrante y acogedor donde la famili
 
 La atmósfera del club es de camaradería y diversión, donde la competición se vive de una manera muy sana y constructiva. Las carreras aquí no solo se centran en la victoria, sino en el disfrute y el aprendizaje compartido entre padres, hijos y primos. Los circuitos pueden ser adaptados para incluir tramos de rally con curvas cerradas y superficies variadas, largos recorridos de resistencia al estilo Le Mans, o pistas técnicas que prueban la habilidad de los pilotos con dunas o chicanes.
 
-![](../docs/images/evento_diciembre_2024_01.jpeg)
+![](../docs/images/evento_enero_2024_01.jpeg)
 
 ![](../docs/images/evento_junio_2024_01.jpeg)
 
