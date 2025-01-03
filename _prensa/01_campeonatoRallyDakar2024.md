@@ -14,7 +14,7 @@ El evento que ha entusiasmado a los amantes del Scalextric y del rally. Se llev�
 
 ![](../docs/images/evento_junio_2024_01.jpeg)
 
-La competición, celebrada en el club Casa Raton Scalextric, presentó una alineación diversa de vehículos, destacando entre ellos modelos Mitsubishi y BMW, conocidos por su participación histórica en el Rally Dakar real. Los coches Mitsubishi, con su legado en el rally, y los BMW, con su tecnología y diseño innovador, se enfrentaron en un duelo de destreza y resistencia.
+La competición, celebrada en el club Casa Ratón Scalextric, presentó una alineación diversa de vehículos, destacando entre ellos modelos Mitsubishi y BMW, conocidos por su participación histórica en el Rally Dakar real. Los coches Mitsubishi, con su legado en el rally, y los BMW, con su tecnología y diseño innovador, se enfrentaron en un duelo de destreza y resistencia.
 
 ![](../docs/images/evento_junio_2024_02.jpeg)
 
