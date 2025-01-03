@@ -31,7 +31,7 @@
     /*-webkit-pointer-events: none; */
     /*-ms-pointer-events: none;*/
     /* pointer-events: none; */
-    background-color: #ffffff; /*#172232;/*#242943;*/
+    background-color: none; /*#ffffff; /*#172232;/*#242943;*/
     content: '';
     display: block;
     height: 100%;
