@@ -62,7 +62,7 @@
     color: #ffff;
 }
 #about-project a {
-    color: #6fc3df; /* rgba(244,244,255,0.2);*/
+    color: #fa0202; /*#6fc3df; rgba(244,244,255,0.2);*/
     font-size: 18px;
 }
 #about-project a:hover {
@@ -165,7 +165,7 @@ h2 {
     background-color: #ffffff24;
     border: solid 1px /*#fa0202;*/
     margin: 20px 0 20px 0;
-    color: #6fc3df;
+    color: #fa0202; /*#6fc3df;*/
     font-size: 20px;
     padding: 5px 30px;
 }
@@ -226,7 +226,7 @@ h2 {
     background-color: #ffffff24;
     border: solid 1px /*#fa0202;*/
     margin: 20px 0 20px 0;
-    color: #6fc3df;
+    color: #fa0202; /*#6fc3df;*/
     font-size: 12px;
     padding: 5px 30px;
     }
