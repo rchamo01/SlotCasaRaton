@@ -15,8 +15,8 @@ La atmósfera del club es de camaradería y diversión, donde la competición se
 
 ![](../docs/images/evento_junio_2024_01.jpeg)
 
-Una de las tradiciones más destacadas del club es el "premio patata", un reconocimiento humorístico y simbólico que se otorga al perdedor de cada competición. Este premio tiene su origen en las primeras competiciones cuando algunos coches no funcionaban o eran demasiado lentos. Alguien sugirió que una patata seria mas rapida
+Una de las tradiciones más destacadas del club es el "premio patata", un reconocimiento humorístico y simbólico que se otorga al perdedor de cada competición. Este premio tiene su origen en las primeras competiciones cuando algunos coches no funcionaban o eran demasiado lentos. Alguien sugirió que una patata seria más rápida.
 
 El club ofrece un ambiente donde los más pequeños pueden aprender de los mayores, desarrollando no solo habilidades de conducción, sino también valores como la paciencia, la estrategia, y el trabajo en equipo. Además, las reuniones suelen incluir momentos de socialización, donde se comparten trucos de preparación de los coches, consejos sobre las mejores configuraciones y, sobre todo, se fomenta un sentido de comunidad. 
 
-Este club de Scalextric no es solo es un lugar para competir; es un espacio donde se crean recuerdos familiares, se fortalecen lazos y se comparte una pasión por el automodelismo que trasciende generaciones.
+Este club de Scalextric no es solo un lugar para competir; es un espacio donde se crean recuerdos familiares, se fortalecen lazos y se comparte una pasión por el automodelismo que trasciende generaciones.
