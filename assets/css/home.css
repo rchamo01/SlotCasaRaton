@@ -31,7 +31,7 @@
     /*-webkit-pointer-events: none; */
     /*-ms-pointer-events: none;*/
     /* pointer-events: none; */
-    background-color: #fa0202; /*#172232;/*#242943;*/
+    background-color: none;/*#fa0202; /*#172232;/*#242943;*/
     content: '';
     display: block;
     height: 100%;
@@ -148,7 +148,7 @@ h2 {
     display: block;
     width: 40px;
     margin-top: 0.3rem;
-    border-top: 3px solid #fa0202;
+    border-top: 3px solid none;/*#fa0202;*/
 }
 .card-title {
     font-size: 1.5rem;
@@ -163,7 +163,7 @@ h2 {
     position: relative;
     z-index: 2;
     background-color: #ffffff24;
-    border: solid 1px #fa0202;
+    border: solid 1px /*#fa0202;*/
     margin: 20px 0 20px 0;
     color: #6fc3df;
     font-size: 20px;
@@ -224,7 +224,7 @@ h2 {
     position: relative;
     z-index: 2;
     background-color: #ffffff24;
-    border: solid 1px #fa0202;
+    border: solid 1px /*#fa0202;*/
     margin: 20px 0 20px 0;
     color: #6fc3df;
     font-size: 12px;
