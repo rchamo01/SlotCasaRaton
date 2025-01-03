@@ -4,7 +4,7 @@ layout: clasificacion
 permalink: /clasificacion25/
 ---
 
-#Clasificación 2025
+# Clasificación 2025
 
 Los siguientes resultados corresponden a los torneos realizados durante 2024. Todas las carreras se han corrido sin imán para incrementar la dificultad de la carrera.
 
