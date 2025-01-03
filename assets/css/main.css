@@ -1,5 +1,5 @@
 body {
-    background: #cf0202; /* #21283d; /*background: #172232; /*background: #242943;*/
+    background: #9e0202; /* #21283d; /*background: #172232; /*background: #242943;*/
     margin: 0;
 }
 html {
@@ -15,14 +15,14 @@ nav {
     top: 0;
     width: 102%;
     box-shadow:  3px 15px 20px #1a97d9; /*#6464644d;*/
-    background-color: #cf0202; /* #21283d; /* #172232;/* #242943; */
+    background-color: #9e0202; /* #21283d; /* #172232;/* #242943; */
     padding: 0 5px 0 5px;
 }
 .navbar a {
     color: #fff;
 }
 .dropdown-menu {
-    background-color: #cf0202; /* #21283d; /*#172232db; /*#242943a6 ;*/
+    background-color: #9e0202; /* #21283d; /*#172232db; /*#242943a6 ;*/
     border-radius: 0;
     opacity: 1;
 }
