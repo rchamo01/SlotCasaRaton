@@ -1,7 +1,7 @@
 ---
 title: Clasificacion
 layout: clasificacion
-permalink: /clasificacion/
+permalink: /clasificacion24/
 ---
 
 Prueba100
