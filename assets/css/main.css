@@ -72,15 +72,15 @@ footer {
     font-size:medium;
 }
 .financing a {
-    color: #6fc3df;
+    color: #fa0202;
 }
 ::selection {
-    background: #6fc3df;
+    background: #fa0202;
   }
 
 a:hover {
     text-decoration: none;
-    color:#6fc3df;
+    color:#fa0202;
 }
 .navbar-toggler {
     border: solid 1px #fff;
