@@ -7,6 +7,8 @@ categories:
 tags:
   - Scalextric
   - Club Casa Raton Scalextric
+date:
+  - 22 Diciembre 2024
 ---
 
 Fue un emocionante evento celebrado el 22 de diciembre de 2024, celebrando la Navidad. Los aficionados del Club Casa Ratón Scalextric tuvieron la oportunidad de presenciar una competición única en su género. El evento se centró en la categoría de coches tipo Ferrari, destacando por su modalidad de resistencia durante 24 minutos intensos.
