@@ -4,10 +4,10 @@ layout: default
 <section id="banner-title">
     <h1>Do It Yourself</h1>
 </section>
-<section id="last-news">
+<section id="diy">
     {% assign psize = site.diy | size %}
     {% if psize == 0 %} 
-    <div class="news-empty">
+    <div class="diy-empty">
         <p>{{ site.data.home.empty-msg }}</p>
         <img src="{{ site.data.home.empty-img }}">
     </div>
@@ -15,13 +15,13 @@ layout: default
     <div class="flex-row">
         {% assign psize = site.diy | size %}
         {% if psize == 0 %} 
-        <div class="news-empty">
+        <div class="diy-empty">
             <p>{{ site.data.home.empty-msg }}</p>
             <img src="{{ site.data.home.empty-img | relative_url }}">
         </div>        
         {% else %}
         {%- for entry in site.diy -%}
-        <div class="news-card">
+        <div class="diy-card">
             <a href="{{ entry.url | relative_url}}">
                 <div class="card-filter"></div>
                 <img class="card-thumbnail" src="../{{ entry.image.thumbnail }}" alt="">
