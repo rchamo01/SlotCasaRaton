@@ -71,6 +71,9 @@ collections:
   prensa:
     output: true
     permalink: /:collection/:name
+  diy:
+    output: true
+    permalink: /:collection/:name
 
     
 # Front Matter Defaults
