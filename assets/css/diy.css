@@ -1,4 +1,4 @@
-#diy-image img {
+#post-image img {
     width: 100%;
     max-height: 70vh;
 }
@@ -9,7 +9,7 @@ pre {
 #project-content figure {
     width: 100% !important;
 }
-.diy-info {
+.post-info {
     background-color: #fa0202;
     color: black;
     font-weight: 500;
