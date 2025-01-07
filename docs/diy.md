@@ -1,6 +1,6 @@
 ---
 title: DIY
-layout: diys
+layout: diy
 permalink: /diy/
 ---
 
