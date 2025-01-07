@@ -6,7 +6,7 @@ categories:
   - DIY
 tags:
   - Scalextric
-  - Arduino
+  - Python
 ---
 
-Prueba004
+Prueba005
