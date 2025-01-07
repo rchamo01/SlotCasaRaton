@@ -11,5 +11,5 @@ permalink: /diy/
 
 # Codigo para la clasificación
 
-[![](../docs/images/semaforo02.png)](/diy/02-codigoclasificacion)
+[<img src="../docs/images/semaforo02.png" width="500" height="300">](/diy/02-codigoclasificacion)
 
