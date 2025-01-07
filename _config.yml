@@ -90,6 +90,6 @@ defaults:
       path: "_diy"
       type: diy
     values:
-      layout: ldiy
+      layout: diy
       comments: true
       share: true
