@@ -14,7 +14,7 @@ El sistema de puntos es parecido al que se usa en la competición de F1. De esta
 
 Para incentivar la pasión por la mecánica y la electrónica, también se premiará al piloto que tenga su vehículo mejor preparado. Por lo tanto, también habrá un Mundial de mecánicos. Se otorgarán 2 puntos si el piloto no toca su vehículo durante la competición, 1 punto si hace pequeñas modificaciones y 0 puntos si el vehículo directamente tiene que pasar por taller. No se contará como modificación retirar el imán del coche.
 
-![](../docs/images/clasificacionM25.jpeg)
+![](../docs/images/clasificacion25m.jpeg)
 
 Obviamente estas competiciones son de carácter amistosa y no se busca la disputa entre participantes.
 
