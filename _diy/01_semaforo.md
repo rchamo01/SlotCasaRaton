@@ -11,10 +11,10 @@ tags:
 
 # Crear un semáforo con una placa Arduino
 
-![](/docs/images/semaforo01.png)
+![](../docs/images/semaforo01.png)
 
 
-![](/docs/images/semaforo02.png)
+![](../docs/images/semaforo02.png)
 
 
-![](/docs/images/semaforo03.png)
+![](../docs/images/semaforo03.png)
