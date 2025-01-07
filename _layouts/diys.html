@@ -4,23 +4,23 @@ layout: default
 <section id="banner-title">
     <h1>Do It Yourself s</h1>
 </section>
-<section id="diy">
-    {% assign psize = site.diy | size %}
+<section id="diys">
+    {% assign psize = site.diys | size %}
     {% if psize == 0 %} 
-    <div class="diy-empty">
+    <div class="diys-empty">
         <p>{{ site.data.home.empty-msg }}</p>
         <img src="{{ site.data.home.empty-img }}">
     </div>
     {% else %}
     <div class="flex-row">
-        {% assign psize = site.diy | size %}
+        {% assign psize = site.diys | size %}
         {% if psize == 0 %} 
-        <div class="diy-empty">
+        <div class="diys-empty">
             <p>{{ site.data.home.empty-msg }}</p>
             <img src="{{ site.data.home.empty-img | relative_url }}">
         </div>        
         {% else %}
-        {%- for entry in site.diy -%}
+        {%- for entry in site.diys -%}
         <div class="diy-card">
             <a href="{{ entry.url | relative_url}}">
                 <div class="card-filter"></div>
