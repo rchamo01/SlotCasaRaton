@@ -9,7 +9,7 @@ tags:
   - Arduino
 ---
 
-# Crear un semaforo con una placa Arduino
+# Crear un semáforo con una placa Arduino
 
 ![](/docs/images/semaforo01.png)
 
