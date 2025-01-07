@@ -1,7 +1,6 @@
 ---
 title: DIY
-layout: ldiys
-collections: diy
+layout: diys
 permalink: /diy/
 ---
 
