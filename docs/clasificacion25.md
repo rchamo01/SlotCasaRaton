@@ -16,6 +16,6 @@ Para incentivar la pasión por la mecánica y la electrónica, también se premi
 
 ![](../docs/images/clasificacion25m.jpeg)
 
-Obviamente estas competiciones son de carácter amistosa y no se busca la disputa entre participantes.
+Obviamente, estas competiciones son de carácter amistosa y no se busca la disputa entre participantes.
 
-El vencedor al final de año recibirá una palmadita en la espalda y el perdedor el aclamado "premio patata".
+El vencedor, al final de año, recibirá una palmadita en la espalda y el perdedor el aclamado "premio patata".
