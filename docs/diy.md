@@ -1,5 +1,5 @@
 ---
-title: DIY
+title: DIYA
 layout: diy
 permalink: /diy/
 ---
