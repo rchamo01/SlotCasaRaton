@@ -7,7 +7,7 @@ permalink: /diy/
 
 # Semaforo/Cuentavueltas con Arduino
 
-[<img src="../docs/images/semaforo01.png" width="500" height="300">](/diy/01-semaforo)
+[<img src="../docs/images/semaforo01.png" width="500" height="300">](/CasaRatonScalextric/diy/01_semaforo)
 
 # Codigo para la clasificación
 
