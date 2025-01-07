@@ -21,7 +21,7 @@ layout: default
         </div>        
         {% else %}
         {%- for entry in site.diys -%}
-        <div class="diy-card">
+        <div class="diys-card">
             <a href="{{ entry.url | relative_url}}">
                 <div class="card-filter"></div>
                 <img class="card-thumbnail" src="../{{ entry.image.thumbnail }}" alt="">
