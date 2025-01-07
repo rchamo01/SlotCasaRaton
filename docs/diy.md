@@ -5,4 +5,6 @@ collections: diy
 permalink: /diy/
 ---
 
-a
+
+
+# Do It Yourself
