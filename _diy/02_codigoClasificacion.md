@@ -1,5 +1,5 @@
 ---
-title: "Crear un semaforo con una placa Arduino"
+title: "Codigo usado para la clasificación de los pilotos"
 image: 
   thumbnail: docs/images/rallydakarjunio.jpeg
 categories:
