@@ -1,5 +1,5 @@
 ---
-title: "Codigo usado para la clasificación de los pilotos"
+title: "Código usado para la clasificación de los pilotos"
 image: 
   thumbnail: docs/images/rallydakarjunio.jpeg
 categories:
