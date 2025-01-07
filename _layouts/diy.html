@@ -5,14 +5,14 @@ layout: default
     <h1>Do It Yourself</h1>
 </section>
 
-<section id="diy-image">
+<section id="post-image">
     <img src="{{ page.image.path }}">
 </section>
 
 <section id="project-content">
     <span >
         {%- assign date_format = site.date_format | default: "%Y, %-d %B" -%}
-        <p class="diy-info">{{ page.date | date: date_format }}</p>
+        <p class="post-info">{{ page.date | date: date_format }}</p>
     </span>
     <h1>{{ page.title }}</h1>
     {{ content }}
