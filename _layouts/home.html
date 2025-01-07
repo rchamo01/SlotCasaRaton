@@ -67,3 +67,27 @@ layout: default
     {% endif %}
 
 </section>
+
+<!-- DIY -->
+<section id="diy">
+    <h2>{{ site.data.home.diys }}</h2>
+    {% assign psize = site.diy | size %}
+    {% if psize == 0 %} 
+    <div class="diy-empty">
+        <p>{{ site.data.home.empty-msg }}</p>
+        <img src="{{ site.data.home.empty-img }}">
+    </div>
+    {% else %}
+    <div class="flex-row">
+        {%- for entry in site.diy limit: 9 -%}
+        <div class="diy-card">
+            <a href="{{ entry.url | relative_url}}">
+                <div class="card-filter"></div>
+                <img class="card-thumbnail" src="{{ entry.image.thumbnail }}" alt="">
+            </a>
+        </div>
+        {%- endfor -%}
+    </div>
+    {% endif %}
+
+</section>
