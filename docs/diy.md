@@ -7,7 +7,7 @@ permalink: /diy/
 
 <p style="text-align: center;">
 aaa
-<p><a href="https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo">Semaforo/Cuentavueltas con Arduino</a></p>
+<a href="https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo">Semaforo/Cuentavueltas con Arduino</a>
 
 </p>
 
