@@ -33,7 +33,7 @@ Los materiales utilizados para este semáforo fueron:
 
 Los materiales marcados como opcional no serían necesarios para el proyecto pudiendo cambiarlos por otros o simplemente no usarlos.
 
-Los sensores basados en luz infrarrojos permiten medir distancias sin muchas interferencias entre ellos. El funcionamiento de estos sensores se basa en medir la distancia constantemente. El sistema cuanta esta distancia como un 0 y cuando la distancia cambia, pasando un coche por el sensor, es un 1. Este funcionamiento de lógica digital y flancos de subida es muy útil para el caso del semáforo. Con la utilización de la detección de flancos de subida, se evitan que el semáforo cuente más de una vuelta.
+Los sensores basados en luz infrarrojos permiten medir distancias sin muchas interferencias entre ellos. El funcionamiento de estos sensores se basa en medir la distancia constantemente. El sistema cuenta esta distancia como un 0 y cuando la distancia cambia, pasando un coche por el sensor, es un 1. Este funcionamiento de lógica digital y flancos de subida es muy útil para el caso del semáforo. Con la utilización de la detección de flancos de subida, se evitan que el semáforo cuente más de una vuelta.
 
 <img src="../docs/images/semaforo03.png" width="400" height="240">
 
