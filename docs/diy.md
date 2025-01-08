@@ -5,7 +5,11 @@ collections: diy
 permalink: /diy/
 ---
 
-<p style="text-align: center;"><p><a href="https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo">Semaforo/Cuentavueltas con Arduino</a></p></p>
+<p style="text-align: center;">
+
+<p><a href="https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo">Semaforo/Cuentavueltas con Arduino</a></p>
+
+</p>
 
 <p><a href="https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo"><img src="../docs/images/semaforo00.jpeg" width="500" height="300"></a></p>
 
