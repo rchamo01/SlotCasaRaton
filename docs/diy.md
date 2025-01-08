@@ -15,8 +15,8 @@ permalink: /diy/
 
 <p style="text-align: center;"><a href="https://rchamo01.github.io/CasaRatonScalextric/diy/02-codigoclasificacion">Código para la clasificación</a></p>
 
-[<img src="../docs/images/semaforo02.png" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/02-codigoclasificacion)
+[<img src="../docs/images/codigoclasificacion00.jpeg" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/02-codigoclasificacion)
 
 <p style="text-align: center;"><a href="https://rchamo01.github.io/CasaRatonScalextric/diy/04-codigoenfrentamientos">Código enfrentamientos</a></p>
 
-[<img src="../docs/images/semaforo02.png" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/04-codigoenfrentamientos)
+[<img src="../docs/images/codigoenfrentamientos.jpeg" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/04-codigoenfrentamientos)
