@@ -49,6 +49,6 @@ Por último, se diseñó una PCB para evitar el exceso de cables y la simplicida
 
 ![](../docs/images/semaforo01.png)
 
-Todo el código utilizado en este semáforo se puede encontrar en el [repositorio de CHAMO DESIGN](). En un principio se programó el semáforo para que se establecieran cada piloto y estableciera los enfrentamientos entre estos. Esto sería complicar demasiado el diseño, por eso, es mejor reducir las características del semáforo a las más básicas.
+Todo el código utilizado en este semáforo se puede encontrar en el [repositorio de CHAMO DESIGN](https://github.com/rchamo01/Arduino/tree/20a4224506cea3e5a7ccc267e2628bf88cf54640/cuentavueltas4). En un principio se programó el semáforo para que se establecieran cada piloto y estableciera los enfrentamientos entre estos. Esto sería complicar demasiado el diseño, por eso, es mejor reducir las características del semáforo a las más básicas.
 
 Durante las pruebas del semáforo, este media con bastante exactitud las vueltas y tiempos de los coches. La interfaz que se utilizo fue demasiado complicada pudiendo reducirse en diseño, eliminando elementos innecesarios como el controlador o el zumbador y reduciendo líneas de código considerablemente.
