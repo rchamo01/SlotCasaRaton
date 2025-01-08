@@ -7,6 +7,7 @@ permalink: /diy/
 
 <p style="text-align: center;">
 
+
 [Semaforo/Cuentavueltas con Arduino](https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo "Title")
 
 [<img src="../docs/images/semaforo00.jpeg" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo)
@@ -22,5 +23,6 @@ permalink: /diy/
 [Código enfrentamientos](https://rchamo01.github.io/CasaRatonScalextric/diy/04-codigoenfrentamientos "Title")
 
 [<img src="../docs/images/semaforo02.png" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/04-codigoenfrentamientos)
+
 
 </p>
