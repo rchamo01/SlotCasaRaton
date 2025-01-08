@@ -1,5 +1,5 @@
 ---
-title: "Código usado para la clasificación de los pilotos"
+title: "Código para los enfrentamientos"
 image: 
   thumbnail: docs/images/rallydakarjunio.jpeg
 categories:
@@ -11,4 +11,4 @@ tags:
 
 
 
-Prueba005
+Prueba007
