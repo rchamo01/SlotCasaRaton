@@ -7,12 +7,9 @@ permalink: /diy/
 
 <p style="text-align: center;">
 
+<p><a href="https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo">Semaforo/Cuentavueltas con Arduino</a></p>
 
-[Semaforo/Cuentavueltas con Arduino](https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo)
-
-
-[<img src="../docs/images/semaforo00.jpeg" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo)
-
+<p><a href="https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo"><img src="../docs/images/semaforo00.jpeg" width="500" height="300"></a></p>
 
 [Construcción coche desde 0](https://rchamo01.github.io/CasaRatonScalextric/diy/03-cochedesde0)
 
