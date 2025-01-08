@@ -6,6 +6,7 @@ permalink: /diy/
 ---
 
 <p style="text-align: center;">
+
 [Semaforo/Cuentavueltas con Arduino](https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo "Title")
 
 [<img src="../docs/images/semaforo00.jpeg" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/01-semaforo)
