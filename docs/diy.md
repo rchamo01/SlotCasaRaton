@@ -19,4 +19,4 @@ permalink: /diy/
 
 <p style="text-align: center;"><a href="https://rchamo01.github.io/CasaRatonScalextric/diy/04-codigoenfrentamientos">Código enfrentamientos</a></p>
 
-[<img src="../docs/images/codigoenfrentamientos.jpeg" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/04-codigoenfrentamientos)
+[<img src="../docs/images/codigoenfrentamientos00.jpeg" width="500" height="300">](https://rchamo01.github.io/CasaRatonScalextric/diy/04-codigoenfrentamientos)
