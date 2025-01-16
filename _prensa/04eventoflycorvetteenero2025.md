@@ -7,7 +7,8 @@ categories:
 tags:
   - Scalextric
   - Club Casa Raton Scalextric
-date: 31-Enero-2025
+date:
+  - 10-January-2025
 ---
 
 
