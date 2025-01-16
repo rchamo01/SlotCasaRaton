@@ -10,4 +10,4 @@ tags:
 date: 31-01-2025
 ---
 
-Primer torneo de 2025 el proximo 31 de enero. Categoria Fly modo resistencia a 24 minutos.
+Primer torneo de 2025 el proximo 31 de enero. Categoria Fly modo resistencia a 24 minutos. Corvette C5R
