@@ -6,7 +6,7 @@ permalink: /clasificacion25/
 
 # Clasificación 2025
 
-Los siguientes resultados corresponden a los torneos realizados durante 2024. Todas las carreras se han corrido sin imán para incrementar la dificultad de la carrera.
+Los siguientes resultados corresponden a los torneos realizados durante 2025. Todas las carreras se han corrido sin imán para incrementar la dificultad de la carrera.
 
 El sistema de puntos es parecido al que se usa en la competición de F1. De esta forma, el vencedor recibirá 7 puntos, el segundo 5 puntos, tercero 4 puntos... así sucesivamente hasta el sexto que recibe solo 1 punto. A partir de este, no se reciben puntos.
 
