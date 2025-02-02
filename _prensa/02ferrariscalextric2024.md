@@ -11,7 +11,7 @@ date:
   - 22-December-2024
 ---
 
-Fue un emocionante evento celebrado el 22 de diciembre de 2024, celebrando la Navidad. Los aficionados del Club Casa Ratón Scalextric tuvieron la oportunidad de presenciar una competición única en su género. El evento se centró en la categoría de coches tipo Ferrari, destacando por su modalidad de resistencia durante 24 minutos intensos.
+Fue un emocionante evento celebrado el 22 de diciembre de 2024, celebrando la Navidad. Los aficionados del Club Slot Casa Ratón tuvieron la oportunidad de presenciar una competición única en su género. El evento se centró en la categoría de coches tipo Ferrari, destacando por su modalidad de resistencia durante 24 minutos intensos.
 
 La pista, meticulosamente diseñada, recreaba los desafíos de un circuito real, el circuito del Jarama, con curvas cerradas y rectas donde la velocidad podía ser decisiva. Participaron varios modelos del Ferrari 360 GTC Modena y Ferrari 550 GTS Maranello, de la marca Scalextric.
 
@@ -23,8 +23,8 @@ La competición fue reñida hasta el último minuto, con pilotos ajustando sus t
 
 ![](../docs/images/evento_diciembre_2024_02.jpeg)
 
-El ganador utilizó un Ferrari 360 GTC de Scalextric, que, gracias a su motor y a una preparación minuciosa, logró mantener un ritmo constante y evitar los errores que suelen ser fatales en pruebas de resistencia. Los participantes comentaron la emoción de ver estos legendarios coches en acción, recordando la historia y la pasión que rodea a los modelos Ferrari en el mundo del Scalextric.
+El ganador utilizó un Ferrari 360 GTC de Scalextric, que, gracias a su motor y a una preparación minuciosa, logró mantener un ritmo constante y evitar los errores que suelen ser fatales en pruebas de resistencia. Los participantes comentaron la emoción de ver estos legendarios coches en acción, recordando la historia y la pasión que rodea a los modelos Ferrari en el mundo del Slot.
 
 
-Este evento no solo fue una celebración del hobby del Scalextric, sino también un homenaje al diseño y desempeño del Ferrari 360 GTC, consolidando su lugar en la historia de los coches de slot. La comunidad espera con ansias más eventos similares que mantengan viva la emoción y la tradición de este pasatiempo
+Este evento no solo fue una celebración del hobby del Slot, sino también un homenaje al diseño y desempeño del Ferrari 360 GTC, consolidando su lugar en la historia de los coches de slot. La comunidad espera con ansias más eventos similares que mantengan viva la emoción y la tradición de este pasatiempo
 
