@@ -1,11 +1,11 @@
 ---
-title: Club Casa Ratón Scalextric
+title: Club Slot Casa Ratón
 layout: project
 permalink: /proyecto/
 ---
 
 
-El club Casa Ratón Scalextric es un espacio vibrante y acogedor donde la familia se reúnen para disfrutar de la emoción del modelismo en competiciones amigables. Este club destaca por su diversidad en cuanto a los tipos de coches de competición que se utilizan, abarcando desde coches de rally hasta los clásicos de Le Mans, pasando por modelos f1 y GT. 
+El club Slot Casa Ratón es un espacio vibrante y acogedor donde la familia se reúnen para disfrutar de la emoción del modelismo en competiciones amigables. Este club destaca por su diversidad en cuanto a los tipos de coches de competición que se utilizan, abarcando desde coches de rally hasta los clásicos de Le Mans, pasando por modelos f1 y GT. 
 
 ![](../docs/images/presentacion_club_01.jpeg)
 
@@ -19,4 +19,4 @@ Una de las tradiciones más destacadas del club es el "premio patata", un recono
 
 El club ofrece un ambiente donde los más pequeños pueden aprender de los mayores, desarrollando no solo habilidades de conducción, sino también valores como la paciencia, la estrategia, y el trabajo en equipo. Además, las reuniones suelen incluir momentos de socialización, donde se comparten trucos de preparación de los coches, consejos sobre las mejores configuraciones y, sobre todo, se fomenta un sentido de comunidad. 
 
-Este club de Scalextric no es solo un lugar para competir; es un espacio donde se crean recuerdos familiares, se fortalecen lazos y se comparte una pasión por el automodelismo que trasciende generaciones.
+Este club de Slot no es solo un lugar para competir; es un espacio donde se crean recuerdos familiares, se fortalecen lazos y se comparte una pasión por el automodelismo que trasciende generaciones.
