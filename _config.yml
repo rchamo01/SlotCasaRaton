@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Casa Raton Scalextric
+title: Slot Casa Raton
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Prueba011.
-baseurl: "/CasaRatonScalextric/" # the subpath of your site, e.g. /blog
-url: "https://rchamo01.github.io/CasaRatonScalextric/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/SlotCasaRaton/" # the subpath of your site, e.g. /blog
+url: "https://rchamo01.github.io/SlotCasaRaton/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
@@ -48,7 +48,7 @@ google_fonts:
 # Footer Links
 footer_links:
   - title: Twitter
-    url: 
+    url: https://x.com/SlotCasaRaton?t=KzMeUmvYFcOAba1HXUibUA&s=08
     icon: fa fab fa-twitter
   - title: Instagram
     url: 
