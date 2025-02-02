@@ -4,7 +4,7 @@ layout: equipo
 permalink: /equipo/
 ---
 
-El club de Scalextric está formado por los siguientes integrantes:
+El club de Slot está formado por los siguientes integrantes:
 
 # T Manolo 
 
