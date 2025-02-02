@@ -1,10 +1,10 @@
-# Casa Ratón Scalextric
+# Slot Casa Ratón
 
-Página web oficial de *Casa Ratón Scalextric*, creada y publicada en 2024.
+Página web oficial de *Slot Casa Ratón*, creada y publicada en 2024.
 
 ## Acceso a la web:
 Existen una URL de acceso a la web online:
-- URL de Github Pages: https://rchamo01.github.io/CasaRatonScalextric/
+- URL de Github Pages: https://rchamo01.github.io/SlotCasaRaton/
 
 Se dispone de la URL de Github Pages que se genera automáticamente al hacer uso de Jekyll como creador de sitios web estáticos y que de acuerdo con las políticas de Github no tendrá ningún coste. Página web creada por el usuario de GitHub: [https://rchamo01.github.io](https://github.com/rchamo01/)/.
 
