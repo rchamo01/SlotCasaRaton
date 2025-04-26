@@ -11,7 +11,7 @@ date:
   - 25-April-2025
 ---
 
-Ayer, los aficionados al Scalextric vivieron una jornada cargada de emoción en la competición de Rally Dakar, celebrada en un espectacular circuito que recreaba las duras condiciones del desierto. La categoría Raid reunió a seis potentes vehículos: un Volkswagen Touareg, tres BMW X5 y dos Mitsubishi Pajero, todos listos para enfrentarse a un trazado exigente con una imponente duna, múltiples curvas y una longitud que puso a prueba la habilidad de los pilotos.
+Los aficionados al Scalextric vivieron una jornada cargada de emoción en la competición de Rally Dakar, celebrada en un espectacular circuito que recreaba las duras condiciones del desierto. La categoría Raid reunió a seis potentes vehículos: un Volkswagen Touareg, tres BMW X5 y dos Mitsubishi Pajero, todos listos para enfrentarse a un trazado exigente con una imponente duna, múltiples curvas y una longitud que puso a prueba la habilidad de los pilotos.
 El circuito, diseñado para simular la esencia del Dakar, incluyó un desafío único: si un coche se salía de la pista, el piloto debía colocarlo sin ayuda externa, emulando las duras condiciones del rally real. La carrera consistió en completar 60 vueltas en el menor tiempo posible, y la tensión se mantuvo hasta el último segundo.
 
 ![](../docs/images/evento_abril_2025_01.jpeg)
