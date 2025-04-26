@@ -97,3 +97,5 @@ Lista de componentes:
 El código se puede encontrar en [repositorio de CHAMO DESIGN](https://github.com/rchamo01/Arduino/tree/main/cuentavueltas2_05). Se optó por un diseño mucho más simple con solo dos posibilidades, contar vueltas o contar tiempos.
 
 Este cuentavueltas se usó por primera vez en la competicion de [rally dakar de 2025](https://rchamo01.github.io/SlotCasaRaton/prensa/05eventodakarabril2025) demostrando funcionar al mismo nivel que un cuentavueltas comercial.
+
+[Videos del cuentavueltas.](https://x.com/chamorrillo7/status/1916067114412032205?t=t-tlfkIGpM7m8PVdV-3k4Q&s=08)
