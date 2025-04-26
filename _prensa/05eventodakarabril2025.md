@@ -1,7 +1,7 @@
 ---
 title: "Segundo Torneo Rally Dakar 2025"
 image: 
-  thumbnail: docs/images/evento_abril_2025_03.jpeg
+  thumbnail: docs/images/evento_abril_2025_00.jpeg
 categories:
   - Divulgación
 tags:
