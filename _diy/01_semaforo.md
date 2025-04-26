@@ -18,7 +18,7 @@ Actualmente, el club cuenta con un [semáforo digital de la marca Carrera](https
 
 Pero antes de que el club pudiera comprarse un semáforo, se las tuvo que ingeniar para crear un cuentavueltas casero que tuviera las mismas funcionalidades que uno comercial. Por ello, CHAMO DESIGN inventó un semáforo fundamentado en Arduino y con [sensores de infrarrojo](https://www.amazon.es/ARCELI-GP2Y0A21YK0F-Distancia-anal%C3%B3gico-Compatible/dp/B07MY27W7T/ref=sr_1_1?nsdOptOutParam=true&sr=8-1) para la detección de movimiento.
 
-<img src="../docs/images/semaforo02.png" width="400" height="240">
+<img src="../docs/images/semaforo02.png" width="400" height="300">
 
 Los materiales utilizados para este semáforo fueron:
 + Arduino UNO.
