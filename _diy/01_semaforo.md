@@ -59,7 +59,7 @@ Durante las pruebas del semáforo, este media con bastante exactitud las vueltas
 
 Después de la versión Beta, CHAMO DESIGN decidió que se podía mejorar el cuentavueltas. Para ello, cambiarían como se visualizaba el cronometro y se mejoraría el diseño electrónico.
 
-<img src="../docs/images/semaforo04.png" width="400" height="240">
+<img src="../docs/images/semaforo04.png" width="240" height="400">
 <img src="../docs/images/semaforo05.png" width="400" height="240">
 <img src="../docs/images/semaforo06.png" width="400" height="240">
 
@@ -94,6 +94,6 @@ Lista de componentes:
 + Bateria
 + PCB
 
-El código se puede encontrar en [repositorio de CHAMO DESIGN](https://github.com/rchamo01/Arduino/tree/20a4224506cea3e5a7ccc267e2628bf88cf54640/cuentavueltas4). Se optó por un diseño mucho más simple con solo dos posibilidades, contar vueltas o contar tiempos.
+El código se puede encontrar en [repositorio de CHAMO DESIGN](https://github.com/rchamo01/Arduino/tree/main/cuentavueltas2_05). Se optó por un diseño mucho más simple con solo dos posibilidades, contar vueltas o contar tiempos.
 
 Este cuentavueltas se usó por primera vez en la competicion de [rally dakar de 2025](https://rchamo01.github.io/SlotCasaRaton/prensa/05eventodakarabril2025) demostrando funcionar al mismo nivel que un cuentavueltas comercial.
