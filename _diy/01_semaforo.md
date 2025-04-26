@@ -67,7 +67,7 @@ Para ello, primero se cambió la pantalla LCD que tiene sus ventajas, como la f�
 
 En segundo lugar, se cambió el microcontrolador. Se sustituyó el Arduino Uno por un Arduino Nano, más pequeño, permitiendo integrarlo sobre el marco de madera.
 
-Otro cambio importante es la botonería. Para introducir el número de vueltas o el tiempo, se usa un array de botones. El funcionamiento puede ser complicado de entender puesto que se tienen que poner el número en binario, dejando el ultimo bit para indicar si se quiere jugar en modo cuentavueltas o cuenta tiempos. De esta forma, si se quieren dar 1o vueltas, se tendrá que poner el bit 10100001.
+Otro cambio importante es la botonería. Para introducir el número de vueltas o el tiempo, se usa un array de botones. El funcionamiento puede ser complicado de entender puesto que se tienen que poner el número en binario, dejando el ultimo bit para indicar si se quiere jugar en modo cuentavueltas o cuenta tiempos. De esta forma, si se quieren dar 10 vueltas, se tendrá que poner el bit 10100001.
 
 Hay otro botón individual para iniciar la partida o visualizar la vuelta rápida. 
 
