@@ -11,7 +11,7 @@ tags:
 
 # Crear un cuentavueltas con una placa Arduino
 
-# Cuentavueltas version beta.
+# Cuentavueltas versión beta.
 
 Para las carreras realizadas en el club era necesario contar las vueltas y los tiempos. En los primeros campeonatos esto se hacía de forma manual con un simple cronometro, pero esto resultaba ineficiente y poco preciso, dando muchos problemas.	
 Actualmente, el club cuenta con un [semáforo digital de la marca Carrera](https://www.amazon.es/Carrera-electr%C3%B3nico-compatible-Evolution-sistemas/dp/B0002FQJ4Y/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&nsdOptOutParam=true&s=toys&sr=1-1&ufe=INHOUSE_INSTALLMENTS%3AES_IHI_4M_AUTOMATED). Este semáforo permite contar vueltas y tiempos además de dar la salida.
