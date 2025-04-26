@@ -59,9 +59,9 @@ Durante las pruebas del semáforo, este media con bastante exactitud las vueltas
 
 Después de la versión Beta, CHAMO DESIGN decidió que se podía mejorar el cuentavueltas. Para ello, cambiarían como se visualizaba el cronometro y se mejoraría el diseño electrónico.
 
-<img src="../docs/images/semaforo04.png" width="240" height="400">
-<img src="../docs/images/semaforo05.png" width="400" height="240">
-<img src="../docs/images/semaforo06.png" width="400" height="240">
+<img src="../docs/images/semaforo04.png" width="300" height="400">
+<img src="../docs/images/semaforo05.png" width="400" height="300">
+<img src="../docs/images/semaforo06.png" width="400" height="300">
 
 Para ello, primero se cambió la pantalla LCD que tiene sus ventajas, como la fácil programación y electrónica sencilla, pero se visualiza peor, por unos display de 7 segmentos azules. Estos ofrecerán mejor visualización de los tiempos y las vueltas realizadas. 
 
@@ -77,8 +77,8 @@ Se han usado los mismos sensores que en la versión beta puesto que han demostra
 
 Por último, se ha diseñado una PCB que mejora la electrónica. Se ha usado Fusion 360 para el diseño de la PCB. El esquema y conexiones son las siguientes:
 
-<img src="../docs/images/semaforo07.png" width="400" height="240">
-<img src="../docs/images/semaforo08.png" width="400" height="240">
+<img src="../docs/images/semaforo07.png" width="400" height="300">
+<img src="../docs/images/semaforo08.png" width="400" height="300">
 
 Lista de componentes:
 + Arduino Nano.
