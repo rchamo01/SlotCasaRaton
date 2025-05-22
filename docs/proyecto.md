@@ -11,9 +11,9 @@ El club Slot Casa Ratón es un espacio vibrante y acogedor donde la familia se r
 
 La atmósfera del club es de camaradería y diversión, donde la competición se vive de una manera muy sana y constructiva. Las carreras aquí no solo se centran en la victoria, sino en el disfrute y el aprendizaje compartido entre padres, hijos y primos. Los circuitos pueden ser adaptados para incluir tramos de rally con curvas cerradas y superficies variadas, largos recorridos de resistencia al estilo Le Mans, o pistas técnicas que prueban la habilidad de los pilotos con dunas o chicanes.
 
-![](../docs/images/evento_enero_2024_01.jpeg)
+![](../docs/images/presentacion_club_02.jpeg)
 
-![](../docs/images/evento_junio_2024_01.jpeg)
+![](../docs/images/evento_enero_2024_01.jpeg)
 
 Una de las tradiciones más destacadas del club es el "premio patata", un reconocimiento humorístico y simbólico que se otorga al perdedor de cada competición. Este premio tiene su origen en las primeras competiciones cuando algunos coches no funcionaban o eran demasiado lentos. Alguien sugirió que una patata seria más rápida.
 
