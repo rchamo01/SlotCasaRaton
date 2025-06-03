@@ -20,6 +20,5 @@ El circuito, diseñado para simular la esencia del Dakar, incluyó un desafío �
 Tras una batalla reñida, el BMW X5 azul de Jose se alzó con la victoria, completando las 60 vueltas en un tiempo récord de 14 minutos y 2 segundos. El piloto demostró un control magistral, sorteando la duna y las curvas con precisión, y gestionando con destreza las pocas salidas de pista. Los otros competidores no se lo pusieron fácil, con el Volkswagen Touareg y los Mitsubishi Pajero manteniendo un ritmo feroz, pero el BMW marcó la diferencia.
 
 ![](../docs/images/evento_abril_2025_03.jpeg)
-![](../docs/images/evento_abril_2025_04.jpeg)
 
 La emoción de los espectadores fue palpable, y la organización ya prepara la próxima edición, prometiendo aún más desafíos. ¡El Scalextric Rally Dakar sigue consolidándose como un evento imprescindible para los amantes de la velocidad y la estrategia!
