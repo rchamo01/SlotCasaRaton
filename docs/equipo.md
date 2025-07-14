@@ -24,7 +24,7 @@ Descripción Jose Manuel
 # Raúl
 
 <!-- Esto no será visible. -->
-<img src="../docs/images/trofeo25.png" width="90" height="110">
+<!--<img src="../docs/images/trofeo25.png" width="90" height="110"> -->
 
 Es un piloto con una habilidad y precisión notable. Tiene un control del coche, manteniendo la velocidad adecuada en cada tramo del circuito. Su precisión en la aceleración y el frenado es clave, lo que permite mantener el coche dentro de la pista incluso en las secciones más desafiantes.
 
