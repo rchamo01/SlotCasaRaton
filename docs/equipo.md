@@ -21,7 +21,7 @@ Descripción Luisma
 Descripción Jose Manuel
 
 
-# Raúl
+# Raúl <img src="../docs/images/trofeo25.png" width="100" height="100">
 
 ![](../docs/images/equipo_01.jpeg)
 
