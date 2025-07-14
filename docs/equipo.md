@@ -22,7 +22,7 @@ Descripción Jose Manuel
 
 
 # Raúl 
-<img src="../docs/images/trofeo25.png" width="50" height="62">
+# <img src="../docs/images/trofeo25.png" width="50" height="62">
 
 ![](../docs/images/equipo_01.jpeg)
 
