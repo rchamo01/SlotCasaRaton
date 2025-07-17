@@ -1,7 +1,7 @@
 ---
 title: "Código para los enfrentamientos"
 image: 
-  thumbnail: docs/images/codigoenfrentamientos00.jpeg
+  thumbnail: docs/images/diy/codigoenfrentamientos00.jpeg
 categories:
   - DIY
 tags:
@@ -23,6 +23,6 @@ Este programa, realizado en el lenguaje de programación Python, se puede encont
 
 Por último, mencionar que este programa se puede implementar en una Raspberry pi, que junto a una pantalla TFT, permitirá visualizarlo en el club sin necesidad de un ordenador con pantalla. Esto hace más portable el proyecto, siendo necesario solo una toma de electricidad y un teclado.
 
-<img src="../docs/images/codigoenfrentamientos01.jpeg" width="400" height="240">
+<img src="../docs/images/diy/codigoenfrentamientos01.jpeg" width="400" height="240">
 
 
