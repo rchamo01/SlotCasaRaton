@@ -34,7 +34,7 @@ Es posible que este jugador disfrute tanto del aspecto técnico como del competi
 
 Por último, la constancia y experiencia acumulada a lo largo de muchas partidas le dan una ventaja, permitiéndole anticipar situaciones y reaccionar con rapidez y eficacia. Este tipo de jugador no solo disfruta de la competición, sino que también puede compartir su pasión y conocimientos con otros del club.
 
-![](../docs/images/equipo_01.jpeg)
+![](../docs/images/equipo_raul.jpeg)
 
 
 # Mario
