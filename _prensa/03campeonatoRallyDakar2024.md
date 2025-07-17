@@ -1,7 +1,7 @@
 ---
 title: "Primer Torneo Rally Dakar 2024"
 image: 
-  thumbnail: docs/images/rallydakarjunio.jpeg
+  thumbnail: docs/images/noticias/2024_06_00.jpeg
 categories:
   - Divulgación
 tags:
@@ -12,11 +12,11 @@ date: 28-Junio-2024
 
 El evento que ha entusiasmado a los amantes del Slot y del rally. Se llevó a cabo una competición temática del Rally Dakar con un circuito que desafió a los competidores con dunas y curvas cerradas. La pista, diseñada para evocar los legendarios desiertos y paisajes del Dakar, ofreció una experiencia inolvidable para los participantes y espectadores.
 
-![](../docs/images/evento_junio_2024_01.jpeg)
+![](../docs/images/noticias/2024_06_01.jpeg)
 
 La competición, celebrada en el Club Slot Casa Ratón, presentó una alineación diversa de vehículos, destacando entre ellos modelos Mitsubishi y BMW, conocidos por su participación histórica en el Rally Dakar real. Los coches Mitsubishi, con su legado en el rally, y los BMW, con su tecnología y diseño innovador, se enfrentaron en un duelo de destreza y resistencia.
 
-![](../docs/images/evento_junio_2024_02.jpeg)
+![](../docs/images/noticias/2024_06_02.jpeg)
 
 El circuito fue un verdadero desafío, con sectores de dunas artificiales que simulaban la arena del desierto y curvas cerradas que exigían precisión y control por parte de los pilotos. Cada coche tuvo que demostrar su capacidad para superar estos obstáculos, manteniéndose en la pista y manteniendo la velocidad necesaria para competir por el primer lugar.
 
