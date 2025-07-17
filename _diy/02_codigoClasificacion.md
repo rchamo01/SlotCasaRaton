@@ -1,7 +1,7 @@
 ---
 title: "Código usado para la clasificación de los pilotos"
 image: 
-  thumbnail: docs/images/codigoclasificacion00.jpeg
+  thumbnail: docs/images/diy/codigoclasificacion00.jpeg
 categories:
   - DIY
 tags:
