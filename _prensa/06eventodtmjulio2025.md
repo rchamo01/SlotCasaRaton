@@ -19,7 +19,7 @@ La categoría DTM (Deutsche Tourenwagen Masters) representa una de las disciplin
 
 La carrera se desarrolló bajo el formato de liga, en la que cada piloto compitió contra todos sus rivales, rotando por los distintos carriles durante enfrentamientos de 2 minutos en cada uno. El objetivo: completar el mayor número de vueltas posibles en el tiempo límite.
 
-El gran vencedor de la jornada fue el Mercedes rojo, que logró 89 vueltas, imponiendo un ritmo constante e implacable. A tan solo tres vueltas, el Mercedes naranja sorprendió a todos con una actuación sobresaliente: 86 vueltas y un lugar más que merecido en el podio, tras una conducción técnica y aguerrida.
+El gran vencedor de la jornada fue el Mercedes rojo, pilotado por Raúl, logrando 89 vueltas e imponiendo un ritmo constante e implacable. A tan solo tres vueltas, el Mercedes naranja, pilotado por María, sorprendió a todos con una actuación sobresaliente: 86 vueltas y un lugar más que merecido en el podio, tras una conducción técnica y aguerrida.
 
 ![](../docs/images/noticias/2025_07_02.jpeg)
 
