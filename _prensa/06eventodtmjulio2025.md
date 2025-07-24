@@ -28,4 +28,5 @@ Pese a algunas bajas notables debido a conflictos de agenda (presentados como "c
 La jornada dejó anécdotas para el recuerdo: algunos pilotos, al límite de sus reflejos, invadieron carriles contrarios en curvas complicadas, robando valiosa energía a sus adversarios y desatando reacciones en cadena que encendieron al público. Otros no lograron controlar del todo su vena competitiva, generando momentos de tensión que avivaron aún más el espíritu del evento.
 
 Por si fuera poco, el tiempo fue un enemigo más, y algunos heats debieron correrse con velocidad récord para cumplir con la planificación, aumentando la presión y la emoción en cada salida.
+
 En resumen el tercer Gran Premio SlotCasaRatón, modalidad DTM dejó claro que, aunque en miniatura, la pasión por el automovilismo se vive a lo grande.
