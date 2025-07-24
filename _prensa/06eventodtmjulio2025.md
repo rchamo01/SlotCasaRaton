@@ -1,7 +1,7 @@
 ---
 title: "Tercer torneo Copetición 2025. Modalidad DTM"
 image: 
-  thumbnail: docs/images/noticias/2025_04_00.jpeg
+  thumbnail: docs/images/noticias/2025_07_00.jpeg
 categories:
   - Divulgación
 tags:
