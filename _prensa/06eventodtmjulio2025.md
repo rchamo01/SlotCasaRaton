@@ -15,7 +15,7 @@ La adrenalina se apoderó del asfalto (o mejor dicho, de las pistas) durante la 
 
 ![](../docs/images/noticias/2025_07_01.jpeg)
 
-La categoría DTM (Deutsche Tourenwagen Masters) representa una de las disciplinas más emocionantes del automovilismo europeo, conocida por sus potentes turismos derivados de modelos de calle, pero ajustados al límite con tecnología de competición. En esta ocasión, todos los participantes compitieron con réplicas de Mercedes AMG C-Coupé, máquinas icónicas que combinaron diseño, potencia y precisión sobre el circuito de slot.
+La categoría DTM (Deutsche Tourenwagen Masters) representa una de las disciplinas más emocionantes del automovilismo europeo, conocida por sus potentes turismos derivados de modelos de calle, pero ajustados al límite con tecnología de competición. En esta ocasión, todos los participantes compitieron con réplicas de Mercedes AMG C-Coupé o Audi RS 5 DTM, máquinas icónicas que combinaron diseño, potencia y precisión sobre el circuito de slot.
 
 La carrera se desarrolló bajo el formato de liga, en la que cada piloto compitió contra todos sus rivales, rotando por los distintos carriles durante enfrentamientos de 2 minutos en cada uno. El objetivo: completar el mayor número de vueltas posibles en el tiempo límite.
 
