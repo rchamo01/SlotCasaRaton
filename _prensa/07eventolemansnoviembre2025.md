@@ -1,19 +1,19 @@
 ---
-title: "Tercer Gran Premio 2025. Modalidad DTM"
+title: "Cuarto Gran Premio 2025. Modalidad Le-Mans"
 image: 
-  thumbnail: docs/images/noticias/2025_07_00.jpeg
+  thumbnail: docs/images/noticias/2025_11_00.jpeg
 categories:
   - Divulgación
 tags:
   - Scalextric
   - Club Slot Casa Raton
 date:
-  - 24-Julio-2025
+  - 21-Noviembre-2025
 ---
 
 La adrenalina se apoderó del asfalto (o mejor dicho, de las pistas) durante la última edición del Gran Premio SlotCasaRatón con la modalidad de coches DTM, una competición vibrante en la que los pilotos demostraron destreza, reflejos y una pasión desbordante por la velocidad.
 
-![](../docs/images/noticias/2025_07_01.jpeg)
+![](../docs/images/noticias/2025_11_01.jpeg)
 
 La categoría DTM (Deutsche Tourenwagen Masters) representa una de las disciplinas más emocionantes del automovilismo europeo, conocida por sus potentes turismos derivados de modelos de calle, pero ajustados al límite con tecnología de competición. En esta ocasión, todos los participantes compitieron con réplicas de Mercedes AMG C-Coupé o Audi RS 5 DTM, máquinas icónicas que combinaron diseño, potencia y precisión sobre el circuito de slot.
 
@@ -21,7 +21,7 @@ La carrera se desarrolló bajo el formato de liga, en la que cada piloto compiti
 
 El gran vencedor de la jornada fue el Mercedes rojo, pilotado por Raúl, logrando 89 vueltas e imponiendo un ritmo constante e implacable. A tan solo tres vueltas, el Mercedes naranja, pilotado por María, sorprendió a todos con una actuación sobresaliente: 86 vueltas y un lugar más que merecido en el podio, tras una conducción técnica y aguerrida.
 
-![](../docs/images/noticias/2025_07_02.jpeg)
+![](../docs/images/noticias/2025_11_02.jpeg)
 
 Pese a algunas bajas notables debido a conflictos de agenda (presentados como "compromisos previos en otros grandes premios del calendario slot") el evento mantuvo un alto nivel competitivo. La pista se llenó de tensión, talento y estrategia.
 
