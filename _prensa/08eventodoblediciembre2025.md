@@ -1,14 +1,14 @@
 ---
-title: "Cuarto Gran Premio 2025. Modalidad Le-Mans"
+title: "Final Gran Premio 2025. Doble modalidad Grupo 5 - Ferrari"
 image: 
-  thumbnail: docs/images/noticias/2025_11_00.jpeg
+  thumbnail: docs/images/noticias/2025_12_01.jpeg
 categories:
   - Divulgación
 tags:
   - Scalextric
   - Club Slot Casa Raton
 date:
-  - 21-Noviembre-2025
+  - 19-Diciembre-2025
 ---
 
 El pasado fin de semana, el Club SlotCasaRatón volvió a demostrar por qué es uno de los espacios más activos y apasionados del mundo del slot. Su última competición reunió a pilotos de todos los niveles alrededor de una modalidad tan desafiante como evocadora: coches de Scalextric basados en modelos que compitieron en el mítico Gran Premio de Le Mans en ediciones anteriores al año 2000. La carrera no solo ofreció acción trepidante, sino también un paseo por la historia del automovilismo de resistencia.
@@ -17,13 +17,14 @@ Los vehículos participantes fueron verdaderas joyas del slot, cada una replican
 
 En el entorno del club, la prueba se organizó bajo un formato simple pero implacable: carreras de 30 vueltas, donde no solo importaba mantener la estabilidad y evitar salidas, sino también registrar el mejor tiempo total posible. Las diferencias entre prototipos, diseños y comportamiento en pista aportaron un toque de incertidumbre que mantuvo al público pegado al borde de la pista desde la primera vuelta.
 
-![](../docs/images/noticias/2025_11_01.jpeg)
+![](../docs/images/noticias/2025_12_02.jpeg)
 
 Uno de los aspectos más comentados fue el circuito, un trazado especialmente diseñado para esta edición temática. Los socios del Club SlotCasaRatón dedicaron semanas a perfeccionarlo, buscando un equilibrio perfecto entre velocidad, técnica y diversión. El resultado fue un recorrido que incluía largas rectas —ideales para que los prototipos demostraran su potencia— junto a curvas enlazadas que requerían precisión quirúrgica y cambios de ritmo constantes. Los pilotos destacaron la fluidez del diseño y la forma en que permitía que cada coche exhibiera sus características únicas sin favorecer a ninguno en exceso.
 
 La competencia fue intensa desde el principio. El Ferrari 330 P4 mostró un desempeño sorprendentemente estable considerando su diseño clásico, mientras que el Ferrari 333 SP exhibía un comportamiento más agresivo, ideal para las rectas pero algo delicado en las zonas técnicas. El Panoz LMP-1 se convirtió en uno de los favoritos del público por su conducción espectacular y ruidosa, y el Ferrari 512 M se mantuvo constante durante toda la jornada, dando muestras de la solidez que lo hizo famoso en los años setenta.
 
-![](../docs/images/noticias/2025_11_02.jpeg)
+![](../docs/images/noticias/2025_12_03.jpeg)
+![](../docs/images/noticias/2025_12_04.jpeg)
 
 Sin embargo, la gran sorpresa llegó de la mano del basic car B98/10, cuyo piloto realizó una actuación impecable. Su ritmo fue consistente, sus tiempos por vuelta extremadamente regulares y, sobre todo, supo aprovechar mejor que nadie el equilibrio del circuito. Gracias a esto, se alzó como vencedor absoluto de la competición, dejando en segundo lugar a un brillante Ferrari 512 M, que también protagonizó una de sus mejores actuaciones del año.
 
