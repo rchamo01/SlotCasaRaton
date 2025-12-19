@@ -8,15 +8,21 @@ El club de Slot está formado por los siguientes integrantes:
 
 # T Manolo 
 
+<img src="../docs/images/equipo/stats_manolo.png" width="150" height="150"> 
+
 Descripción Manolo
 
 
 # Luis Manuel
 
+<img src="../docs/images/equipo/stats_luisma.png" width="150" height="150"> 
+
 Descripción Luisma
 
 
 # Jose Manuel
+
+<img src="../docs/images/equipo/stats_jose.png" width="150" height="150"> 
 
 Descripción Jose Manuel
 
@@ -24,7 +30,9 @@ Descripción Jose Manuel
 # Raúl
 
 <!-- Esto no será visible. -->
-<!--<img src="../docs/images/trofeo25.png" width="90" height="110"> -->
+<img src="../docs/images/equipo/trofeo25.png" width="90" height="110"> 
+
+<img src="../docs/images/equipo/stats_raul.png" width="150" height="150"> 
 
 Es un piloto con una habilidad y precisión notable. Tiene un control del coche, manteniendo la velocidad adecuada en cada tramo del circuito. Su precisión en la aceleración y el frenado es clave, lo que permite mantener el coche dentro de la pista incluso en las secciones más desafiantes.
 
@@ -39,12 +47,18 @@ Por último, la constancia y experiencia acumulada a lo largo de muchas partidas
 
 # Mario
 
+<img src="../docs/images/equipo/stats_mario.png" width="150" height="150"> 
+
 Descripción Mario
 
 # Maria
 
+<img src="../docs/images/equipo/stats_maria.png" width="150" height="150"> 
+
 Descripción Maria
 
 # Manuel
+
+<img src="../docs/images/equipo/stats_manuel.png" width="150" height="150"> 
 
 Descipción Manuel
