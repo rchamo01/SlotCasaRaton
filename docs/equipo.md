@@ -27,7 +27,9 @@ Descripción Luisma
 Descripción Jose Manuel
 
 
-# Raúl <img src="../docs/images/equipo/trofeo25.png" width="50" height="70"> 
+# Raúl 
+
+<img src="../docs/images/equipo/trofeo25.png" width="50" height="70"> 
 
 <!-- Esto no será visible. -->
 <img src="../docs/images/equipo/stats_raul.png" width="150" height="150"> 
