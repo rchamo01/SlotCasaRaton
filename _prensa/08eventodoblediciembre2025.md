@@ -19,11 +19,11 @@ Para esta ocasión tan especial, la organización apostó por un formato ambicio
 
 En la categoría Grupo 5, la parrilla fue un auténtico desfile de leyendas. Compitieron modelos tan icónicos como el **Porsche 935 Gr5**, el **Ferrari 512 BB LM**, el **Capri Zakspeed Gr5**, el **BMW 320 Gr5**, el **BMW M1 Turbo Gr5** y el imponente **Ferrari 935/78 “Moby Dick”**. Desde las primeras mangas quedó claro que no habría concesiones: los coches eran rápidos, nerviosos y exigentes, y cualquier error se pagaba caro en un circuito diseñado para exprimir al máximo sus prestaciones.
 
-![](../docs/images/noticias/2025_12_02.jpeg)
+![](../docs/images/noticias/2025_12_03.jpeg)
 
 La categoría Ferrari no se quedó atrás en emoción. En ella participaron el **Ferrari 550 Maranello** y el **Ferrari 360 GTC**, con varios coches iguales pero defendidos por equipos distintos, lo que añadió un interesante componente estratégico y comparativo. Aunque los modelos eran los mismos, las diferencias en reglajes, pilotaje y fiabilidad mecánica marcaron importantes distancias en pista.
 
-![](../docs/images/noticias/2025_12_03.jpeg)
+![](../docs/images/noticias/2025_12_02.jpeg)
 
 La tensión fue creciendo a medida que avanzaba la jornada. El campeonato estaba en juego y los nervios se notaban tanto en el ambiente como en el pilotaje. La lucha por la victoria alcanzó tal nivel de intensidad que incluso se produjeron **amenazas verbales** —en tono serio pero cargado de adrenalina— hacia los comisarios, exigiéndoles máxima atención en las salidas de pista y en cualquier posible incidencia que pudiera alterar el resultado. Cada milésima contaba, y nadie quería perder el título por un detalle mal observado.
 
