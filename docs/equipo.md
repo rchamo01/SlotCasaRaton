@@ -61,4 +61,4 @@ Descripción Maria
 
 <img src="../docs/images/equipo/stats_manuel.png" width="150" height="150"> 
 
-Descipción Manuel
+Manuel es un piloto de Scalextric humilde, de los que entienden la competición como una cuestión de valores y no solo de resultados. En la pista destaca por su constancia, su respeto y su forma honesta de competir. Se identifica plenamente con el espíritu del Rayo Vallecano: barrio, lucha y corazón por encima de los grandes medios. Manuel cree en el trabajo silencioso, en mejorar curva a curva y en no rendirse nunca, aunque el rival tenga más nombre o mejores recursos. Para él, correr es una forma de demostrar que la humildad y el esfuerzo siempre van por delante del postureo.
