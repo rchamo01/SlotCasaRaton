@@ -42,7 +42,7 @@ Es posible que este jugador disfrute tanto del aspecto técnico como del competi
 
 Por último, la constancia y experiencia acumulada a lo largo de muchas partidas le dan una ventaja, permitiéndole anticipar situaciones y reaccionar con rapidez y eficacia. Este tipo de jugador no solo disfruta de la competición, sino que también puede compartir su pasión y conocimientos con otros del club.
 
-![](../docs/images/equipo/equipo_raul.jpeg)
+<img src="../docs/images/equipo/equipo_raul.jpeg" width="300" height="300"> 
 
 
 # Mario
@@ -63,4 +63,4 @@ Descripción Maria
 
 Manuel es un piloto de Scalextric humilde, de los que entienden la competición como una cuestión de valores y no solo de resultados. En la pista destaca por su constancia, su respeto y su forma honesta de competir. Se identifica plenamente con el espíritu del Rayo Vallecano: barrio, lucha y corazón por encima de los grandes medios. Manuel cree en el trabajo silencioso, en mejorar curva a curva y en no rendirse nunca, aunque el rival tenga más nombre o mejores recursos. Para él, correr es una forma de demostrar que la humildad y el esfuerzo siempre van por delante del postureo.
 
-![](../docs/images/equipo/equipo_manuel.jpeg)
+<img src="../docs/images/equipo/equipo_manuel.jpeg" width="300" height="300"> 
