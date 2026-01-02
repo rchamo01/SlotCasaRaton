@@ -24,7 +24,11 @@ Descripción Luisma
 
 <img src="../docs/images/equipo/stats_jose.png" width="150" height="150"> 
 
-Descripción Jose Manuel
+Jose M. se sienta frente a su pista de Slot con una mirada decidida, el pulso firme y una confianza que no se ve en muchos. Su estilo de juego es audaz, siempre dispuesto a tomar curvas a la máxima velocidad, desafiando las leyes de la física y las expectativas de los demás. A pesar de las pequeñas derrapadas y choques, nunca se detiene. En lugar de frenarse, ajusta su enfoque, corrige al vuelo y vuelve a acelerar, demostrando que su valentía no está en evitar los errores, sino en aprender de ellos para ir aún más rápido.
+
+A veces, las manos tiemblan un poco al intentar tomar una curva cerrada, pero su rostro sigue serio, sin duda, sin temor. Cada carrera es un desafío personal, una oportunidad para probar hasta dónde puede llegar, para romper límites y demostrar que la valentía no es solo para los momentos épicos, sino para cada decisión que tomas en el camino. A menudo, otros lo ven como un loco, pero para él, es solo una manera de vivir: arriesgarse, aprender y seguir jugando.
+
+<img src="../docs/images/equipo/equipo_jose.jpeg" width="300" height="300"> 
 
 
 # Raúl 
