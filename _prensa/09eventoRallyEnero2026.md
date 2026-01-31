@@ -32,7 +32,7 @@ A todo ello se sumó un problema técnico con la tensión eléctrica durante uno
 
 Por último, este gran premio sirvió como escenario para estrenar una nueva norma que marca un antes y un después en el club: **cada piloto debía competir con su propio mando**. Esta medida permitió ver auténticas joyas tecnológicas en acción, con mandos sofisticados y de alta gama, cuidadosamente ajustados y personalizados. Algunos pilotos aprovecharon la ocasión para lucir sus nuevas adquisiciones, generando comentarios, comparaciones y, cómo no, algo de sana envidia.
 
-<img src="../docs/images/noticias/2026_01_04.jpeg.png" width="150" height="250"> 
+<img src="../docs/images/noticias/2026_01_04.jpeg" width="150" height="250"> 
 
 En definitiva, el rally de slot organizado por el *Club Slot Casa Ratón* fue un evento completo: competitivo, intenso y lleno de novedades. Una prueba que deja el listón muy alto para el resto de la temporada y confirma que el slot sigue vivo, evolucionando y ofreciendo grandes momentos tanto dentro como fuera de la pista.
 
