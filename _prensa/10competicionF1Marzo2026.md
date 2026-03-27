@@ -1,5 +1,5 @@
 ---
-
+title: El “Jaramilla” acoge una caótica y divertida carrera de slot en categoría F1 organizada por Slot Casa Ratón
 image: 
   thumbnail: docs/images/noticias/2026_03_01.jpeg
 categories:
@@ -10,8 +10,6 @@ tags:
 date:
   - 27-March-2026
 ---
-
-**El “Jaramilla” acoge una caótica y divertida carrera de slot en categoría F1 organizada por Slot Casa Ratón**
 
 El club Slot Casa Ratón celebró recientemente una peculiar y entretenida competición de slot en categoría Fórmula 1, marcada tanto por la creatividad del circuito como por diversas anécdotas que no dejaron indiferente a nadie.
 
