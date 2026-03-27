@@ -1,5 +1,5 @@
 ---
-title:
+
 image: 
   thumbnail: docs/images/noticias/2026_03_01.jpeg
 categories:
