@@ -1,38 +1,47 @@
 ---
-title: "Primer Gran Premio 2026. Rally"
+title:
 image: 
-  thumbnail: docs/images/noticias/2026_01_01.jpeg
+  thumbnail: docs/images/noticias/2026_03_01.jpeg
 categories:
   - Divulgación
 tags:
   - Scalextric
   - Club Slot Casa Raton
 date:
-  - 30-January-2026
+  - 27-March-2026
 ---
 
+**El “Jaramilla” acoge una caótica y divertida carrera de slot en categoría F1 organizada por Slot Casa Ratón**
 
-El *Club Slot Casa Ratón* dio el pistoletazo de salida a la temporada con un evento que no dejó indiferente a nadie. El primer gran premio del año llegó en forma de **rally**, una modalidad siempre exigente y espectacular, que volvió a demostrar por qué es una de las favoritas tanto para pilotos como para aficionados. La cita reunió a numerosos participantes y estuvo marcada por la variedad de vehículos, las novedades técnicas, los incidentes en pista y una intensa lucha contra el crono.
+El club Slot Casa Ratón celebró recientemente una peculiar y entretenida competición de slot en categoría Fórmula 1, marcada tanto por la creatividad del circuito como por diversas anécdotas que no dejaron indiferente a nadie.
 
-La carrera se disputó en modalidad por tiempos, sumando los resultados obtenidos en cuatro tramos cronometrados, repartidos en **dos circuitos distintos**, lo que obligó a los pilotos a adaptarse rápidamente a diferentes configuraciones, ritmos y niveles de dificultad. Cada tramo exigía máxima concentración, ya que cualquier error se pagaba caro en la clasificación general.
+El evento tuvo lugar en un trazado inspirado en el histórico circuito del Jarama. Aunque los organizadores intentaron replicarlo con la mayor fidelidad posible, el resultado final presentó notables diferencias, lo que llevó a rebautizarlo con humor como el “Jaramilla”. Este nuevo circuito ofreció un desafío técnico considerable para los participantes, combinando zonas rápidas con curvas más exigentes.
 
-![](../docs/images/noticias/2026_01_02.jpeg)
+![](../docs/images/noticias/2026_03_02.jpeg)
 
-La parrilla fue un auténtico homenaje a la historia del rally, con modelos tan icónicos como el **Ford RS200**, el **Peugeot 205 Turbo 16**, el **Citroën C4**, el **Toyota Yaris WRC1**, el **Mitsubishi Lancer EVO SIMM**, el **Volkswagen Polo S1600**, el **Citroën ZX** y el siempre temido **Lancia Delta S4 Chrono**. Precisamente este último fue el gran protagonista de la jornada, ya que el piloto que lo conducía logró imponerse finalmente y alzarse con la victoria absoluta del rally, demostrando un control exquisito y una regularidad clave en todos los tramos.
+La competición se desarrolló en formato de liga, enfrentando a todos los pilotos entre sí. Cada duelo consistía en tandas de 12 vueltas por carril, registrando los tiempos de cada participante. El vencedor final fue aquel que acumuló el menor tiempo total, premiando así la regularidad y precisión más que la velocidad puntual.
 
-![](../docs/images/noticias/2026_01_03.jpeg)
+En cuanto a los modelos participantes, la parrilla estuvo compuesta por:
 
-Uno de los aspectos más comentados del evento fue el **estreno de nuevos cruces de pistas** en los circuitos. Estas incorporaciones añadieron un extra de dificultad y realismo, pero también provocaron más de una colisión inesperada, generando momentos de tensión, salidas de pista y algún que otro lamento entre los pilotos. Los cruces se convirtieron en puntos críticos donde se decidían segundos vitales y donde la pericia al volante marcaba la diferencia.
+![](../docs/images/noticias/2026_03_03.jpeg)
 
-Como anécdota destacada, este primer evento del año contó con la incorporación de una nueva participante, **María GM**, fundadora del grupo *MaJos*. Su debut no pasó desapercibido y fue recibido con curiosidad y expectación por parte del resto de pilotos, aportando aire fresco al campeonato y demostrando que el club sigue creciendo y atrayendo nuevos talentos.
+* Honda RA107
+* Williams FW07
+* Club Scalextric 2002
+* Minardi F1 2001
+* Arrows F1 2000
 
-La jornada, sin embargo, no estuvo exenta de polémica. La tensión con los comisarios, algo que ya se ha convertido casi en tradición dentro del club, volvió a hacer acto de presencia. Decisiones discutidas, reclamaciones por salidas de pista y revisiones de tiempos generaron debates encendidos que añadieron aún más intensidad al ambiente competitivo.
+Finalmente, fue el Arrows F1 2000 quien se alzó con la victoria, demostrando una gran consistencia a lo largo de toda la competición.
 
-A todo ello se sumó un problema técnico con la tensión eléctrica durante uno de los tramos. Varios pilotos comenzaron a notar una pérdida total de potencia en sus coches, quedándose literalmente parados en pista. Tras detectar la incidencia, la organización se vio obligada a detener y reanudar la carrera, garantizando la igualdad de condiciones para todos los participantes. Aunque el incidente generó nervios y retrasos, fue resuelto con rapidez y profesionalidad.
+La jornada, sin embargo, no estuvo exenta de incidencias. Se registraron numerosas ausencias, lo que redujo la participación prevista. Además, algunos pilotos acudieron sin la camiseta reglamentaria, requisito obligatorio del evento, lo que generó cierto malestar entre la organización.
 
-Por último, este gran premio sirvió como escenario para estrenar una nueva norma que marca un antes y un después en el club: **cada piloto debía competir con su propio mando**. Esta medida permitió ver auténticas joyas tecnológicas en acción, con mandos sofisticados y de alta gama, cuidadosamente ajustados y personalizados. Algunos pilotos aprovecharon la ocasión para lucir sus nuevas adquisiciones, generando comentarios, comparaciones y, cómo no, algo de sana envidia.
+Entre las anécdotas más destacadas, el piloto del Honda RA107 sufrió constantes problemas con la quilla de su coche, afectando notablemente su rendimiento. Por otro lado, se recordó de forma curiosa que el modelo Williams FW07 original contó en su día con un patrocinador tan polémico como inusual, lo que generó comentarios entre los asistentes.
 
-<img src="../docs/images/noticias/2026_01_04.jpeg" width="150" height="250"> 
+Uno de los momentos más problemáticos se produjo durante el enfrentamiento entre el Minardi F1 2001 y el Club Scalextric 2002, cuando ambos coches bloquearon el cuentavueltas, obligando a repetir la manga. Este incidente añadió tensión a una competición ya de por sí ajustada.
 
-En definitiva, el rally de slot organizado por el *Club Slot Casa Ratón* fue un evento completo: competitivo, intenso y lleno de novedades. Una prueba que deja el listón muy alto para el resto de la temporada y confirma que el slot sigue vivo, evolucionando y ofreciendo grandes momentos tanto dentro como fuera de la pista.
+El Club Scalextric 2002 también fue protagonista por una peculiaridad técnica: solo podía ser recolocado en pista por un comisario específico, lo que ralentizó algunas fases de la carrera y añadió un componente estratégico inesperado.
+
+Finalmente, en un ambiente distendido, pilotos y comisarios hicieron una pausa para merendar donuts, reforzando el carácter social y cercano del evento.
+
+En definitiva, una competición marcada por el humor, los contratiempos y la pasión por el slot, que dejó claro que, incluso lejos de la perfección del Jarama, el “Jaramilla” tiene ya su propio encanto.
 
