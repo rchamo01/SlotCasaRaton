@@ -17,7 +17,7 @@ El evento tuvo lugar en un trazado inspirado en el histórico circuito del Jaram
 
 ![](../docs/images/noticias/2026_03_02.jpeg)
 
-La competición se desarrolló en formato de liga, enfrentando a todos los pilotos entre sí. Cada duelo consistía en tandas de 12 vueltas por carril, registrando los tiempos de cada participante. El vencedor final fue aquel que acumuló el menor tiempo total, premiando así la regularidad y precisión más que la velocidad puntual.
+La competición se desarrolló en formato de liga, enfrentando a todos los pilotos entre sí. Cada duelo consistía en tandas de 12 vueltas por carril, registrando los tiempos de cada participante. El vencedor final fue aquel que acumuló el menor tiempo total, premiando así la regularidad y precisión más que la velocidad punta.
 
 En cuanto a los modelos participantes, la parrilla estuvo compuesta por:
 
