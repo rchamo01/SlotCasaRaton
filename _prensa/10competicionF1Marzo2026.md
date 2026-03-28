@@ -21,13 +21,13 @@ La competición se desarrolló en formato de liga, enfrentando a todos los pilot
 
 En cuanto a los modelos participantes, la parrilla estuvo compuesta por:
 
-![](../docs/images/noticias/2026_03_03.jpeg)
-
-* Honda RA107
 * Williams FW07
 * Club Scalextric 2002
-* Minardi F1 2001
+* Honda RA107
 * Arrows F1 2000
+* Minardi F1 2001
+
+![](../docs/images/noticias/2026_03_03.jpeg)
 
 Finalmente, fue el Arrows F1 2000 quien se alzó con la victoria, demostrando una gran consistencia a lo largo de toda la competición.
 
@@ -35,7 +35,7 @@ La jornada, sin embargo, no estuvo exenta de incidencias. Se registraron numeros
 
 Entre las anécdotas más destacadas, el piloto del Honda RA107 sufrió constantes problemas con la quilla de su coche, afectando notablemente su rendimiento. Por otro lado, se recordó de forma curiosa que el modelo Williams FW07 original contó en su día con un patrocinador tan polémico como inusual, lo que generó comentarios entre los asistentes.
 
-Uno de los momentos más problemáticos se produjo durante el enfrentamiento entre el Minardi F1 2001 y el Club Scalextric 2002, cuando ambos coches bloquearon el cuentavueltas, obligando a repetir la manga. Este incidente añadió tensión a una competición ya de por sí ajustada.
+Uno de los momentos más problemáticos se produjo durante el enfrentamiento entre el piloto del Minardi F1 2001 y la piloto del Club Scalextric 2002, cuando ambos coches bloquearon el cuentavueltas, obligando a repetir la manga. Este incidente añadió tensión a una competición ya de por sí ajustada.
 
 El Club Scalextric 2002 también fue protagonista por una peculiaridad técnica: solo podía ser recolocado en pista por un comisario específico, lo que ralentizó algunas fases de la carrera y añadió un componente estratégico inesperado.
 
