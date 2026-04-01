@@ -1,5 +1,6 @@
 ---
 title: "Cuarto Gran Premio 2025. Modalidad Le-Mans"
+weight: 7
 image: 
   thumbnail: docs/images/noticias/2025_11_00.jpeg
 categories:
