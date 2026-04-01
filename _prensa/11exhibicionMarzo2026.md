@@ -1,5 +1,6 @@
 ---
 title: El "Ribering" pone a prueba los nervios de acero en el Club Slot Casa Ratón
+weight: 11
 image: 
   thumbnail: docs/images/noticias/2026_03_04.jpeg
 categories:
