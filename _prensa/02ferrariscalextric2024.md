@@ -1,5 +1,6 @@
 ---
 title: "Torneo Ferrari Diciembre"
+weight: 1
 image: 
   thumbnail: docs/images/noticias/2024_12_03.jpeg
 categories:
