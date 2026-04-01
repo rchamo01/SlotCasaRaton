@@ -1,5 +1,6 @@
 ---
 title: "Primer Gran Premio 2026. Rally"
+weight: 9
 image: 
   thumbnail: docs/images/noticias/2026_01_01.jpeg
 categories:
