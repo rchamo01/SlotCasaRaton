@@ -1,6 +1,6 @@
 ---
 title: "Primer Torneo Rally Dakar 2024"
-weight: 2
+weight: 1
 image: 
   thumbnail: docs/images/noticias/2024_06_00.jpeg
 categories:
