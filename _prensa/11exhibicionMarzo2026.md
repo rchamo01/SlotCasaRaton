@@ -1,45 +1,30 @@
 ---
-title: El “Jaramilla” acoge una caótica y divertida carrera de slot en categoría F1 organizada por Slot Casa Ratón
+title: El "Ribering" pone a prueba los nervios de acero en el Club Slot Casa Ratón
 image: 
-  thumbnail: docs/images/noticias/2026_03_01.jpeg
+  thumbnail: docs/images/noticias/2026_03_04.jpeg
 categories:
   - Divulgación
 tags:
   - Scalextric
   - Club Slot Casa Raton
 date:
-  - 27-March-2026
+  - 30-March-2026
 ---
 
-El club Slot Casa Ratón celebró recientemente una peculiar y entretenida competición de slot en categoría Fórmula 1, marcada tanto por la creatividad del circuito como por diversas anécdotas que no dejaron indiferente a nadie.
+El pasado fin de semana, las instalaciones del **Club Slot Casa Ratón** se convirtieron en el epicentro de la velocidad en miniatura con la celebración de una jornada de exhibición que quedará grabada en la memoria de los socios. Bajo el formato de **carrera no puntuable**, los pilotos se reunieron con un único objetivo: domar al "Ribering", el circuito más ambicioso y extenso jamás montado por el club.
 
-El evento tuvo lugar en un trazado inspirado en el histórico circuito del Jarama. Aunque los organizadores intentaron replicarlo con la mayor fidelidad posible, el resultado final presentó notables diferencias, lo que llevó a rebautizarlo con humor como el “Jaramilla”. Este nuevo circuito ofreció un desafío técnico considerable para los participantes, combinando zonas rápidas con curvas más exigentes.
+La gran estrella del evento fue, sin duda, el trazado. Bautizado como **"Ribering"**, este circuito excepcionalmente largo desafió la concentración de los asistentes con un recorrido superior a los **30 metros por vuelta**. La exigencia técnica del diseño obligó a los pilotos a mantener la tensión durante aproximadamente **20 segundos por giro**, lo que arroja una velocidad media de 1,5 m/s; una cifra que, a escala 1:32, se traduce en una sensación de velocidad de infarto en las rectas y una gestión quirúrgica de los frenos en las curvas cerradas.
 
-![](../docs/images/noticias/2026_03_02.jpeg)
+![](../docs/images/noticias/2026_03_05.jpeg)
 
-La competición se desarrolló en formato de liga, enfrentando a todos los pilotos entre sí. Cada duelo consistía en tandas de 12 vueltas por carril, registrando los tiempos de cada participante. El vencedor final fue aquel que acumuló el menor tiempo total, premiando así la regularidad y precisión más que la velocidad punta.
+A pesar de que el campeonato no sumaba puntos para la clasificación general, el ADN competitivo de Casa Ratón salió a relucir desde el primer gatillazo. Lo que comenzó como un entrenamiento derivó rápidamente en **intensos piques y enfrentamientos directos** en pista.
 
-En cuanto a los modelos participantes, la parrilla estuvo compuesta por:
+La competición se dividió en dos de las categorías más queridas por los aficionados al slot:
+* **Corvette C5R:** Fuerza bruta y estabilidad en el paso por curva.
+* **Ferrari 360 GTC:** Agilidad italiana para los sectores más revirados del Ribering.
 
-* Williams FW07
-* Club Scalextric 2002
-* Honda RA107
-* Arrows F1 2000
-* Minardi F1 2001
+Tras una jornada de mangas vibrantes, el podio reflejó la maestría sobre el mando. **Mario se coronó campeón** indiscutible, exhibiendo un pilotaje excepcional que rozó la perfección en cada sector. La plata fue para **Jose Manuel**, quien mantuvo la presión hasta el último segundo, mientras que **Manuel** cerró el podio con una meritoria tercera posición tras remontar en una final de infarto.
 
-![](../docs/images/noticias/2026_03_03.jpeg)
+Más allá del ruido de los motores eléctricos y el olor a neumáticos, la jornada dejó una anécdota para la historia del club. En un momento de calma tras las finales, uno de los pilotos aprovechó el ambiente de camaradería para **anunciar sus próximas nupcias**. La noticia fue recibida con una ovación y la lógica sorpresa del resto de competidores, quienes cambiaron por un momento los mandos por abrazos para felicitar al futuro novio.
 
-Finalmente, fue el Arrows F1 2000 quien se alzó con la victoria, demostrando una gran consistencia a lo largo de toda la competición.
-
-La jornada, sin embargo, no estuvo exenta de incidencias. Se registraron numerosas ausencias, lo que redujo la participación prevista. Además, algunos pilotos acudieron sin la camiseta reglamentaria, requisito obligatorio del evento, lo que generó cierto malestar entre la organización.
-
-Entre las anécdotas más destacadas, el piloto del Honda RA107 sufrió constantes problemas con la quilla de su coche, afectando notablemente su rendimiento. Por otro lado, se recordó de forma curiosa que el modelo Williams FW07 original contó en su día con un patrocinador tan polémico como inusual, lo que generó comentarios entre los asistentes.
-
-Uno de los momentos más problemáticos se produjo durante el enfrentamiento entre el piloto del Minardi F1 2001 y la piloto del Club Scalextric 2002, cuando ambos coches bloquearon el cuentavueltas, obligando a repetir la manga. Este incidente añadió tensión a una competición ya de por sí ajustada.
-
-El Club Scalextric 2002 también fue protagonista por una peculiaridad técnica: solo podía ser recolocado en pista por un comisario específico, lo que ralentizó algunas fases de la carrera y añadió un componente estratégico inesperado.
-
-Finalmente, en un ambiente distendido, pilotos y comisarios hicieron una pausa para merendar donuts, reforzando el carácter social y cercano del evento.
-
-En definitiva, una competición marcada por el humor, los contratiempos y la pasión por el slot, que dejó claro que, incluso lejos de la perfección del Jarama, el “Jaramilla” tiene ya su propio encanto.
-
+Sin duda, el Ribering no solo sirvió para entrenar el dedo, sino para reafirmar que en el Club Slot Casa Ratón, la pasión por las carreras y la amistad siempre van de la mano.
