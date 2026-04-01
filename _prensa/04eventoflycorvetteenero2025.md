@@ -1,5 +1,6 @@
 ---
 title: "Primer Torneo Fly 2025"
+weight: 4
 image: 
   thumbnail: docs/images/noticias/2025_01_01.jpeg
 categories:
