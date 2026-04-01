@@ -1,5 +1,6 @@
 ---
 title: "Segundo Torneo Rally Dakar 2025"
+weight: 5
 image: 
   thumbnail: docs/images/noticias/2025_04_00.jpeg
 categories:
