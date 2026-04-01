@@ -1,5 +1,6 @@
 ---
 title: "Final Gran Premio 2025. Doble modalidad Grupo 5 - Ferrari"
+weight: 8
 image: 
   thumbnail: docs/images/noticias/2025_12_01.jpeg
 categories:
