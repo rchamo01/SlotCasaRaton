@@ -1,5 +1,6 @@
 ---
 title: "Tercer Gran Premio 2025. Modalidad DTM"
+weight: 6
 image: 
   thumbnail: docs/images/noticias/2025_07_00.jpeg
 categories:
