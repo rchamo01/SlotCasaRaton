@@ -2,7 +2,7 @@
 title: El "Ribering" pone a prueba los nervios de acero en el Club Slot Casa Ratón
 weight: 11
 image: 
-  thumbnail: docs/images/noticias/2026_03_04.jpeg
+  thumbnail: docs/images/noticias/2026_06_01.jpeg
 categories:
   - Divulgación
 tags:
@@ -16,7 +16,9 @@ El pasado fin de semana, las instalaciones del **Club Slot Casa Ratón** se conv
 
 La gran estrella del evento fue, sin duda, el trazado. Bautizado como **"Ribering"**, este circuito excepcionalmente largo desafió la concentración de los asistentes con un recorrido superior a los **30 metros por vuelta**. La exigencia técnica del diseño obligó a los pilotos a mantener la tensión durante aproximadamente **20 segundos por giro**, lo que arroja una velocidad media de 1,5 m/s; una cifra que, a escala 1:32, se traduce en una sensación de velocidad de infarto en las rectas y una gestión quirúrgica de los frenos en las curvas cerradas.
 
-![](../docs/images/noticias/2026_03_05.jpeg)
+![](../docs/images/noticias/2026_06_02.jpeg)
+
+![](../docs/images/noticias/2026_06_03.jpeg)
 
 A pesar de que el campeonato no sumaba puntos para la clasificación general, el ADN competitivo de Casa Ratón salió a relucir desde el primer gatillazo. Lo que comenzó como un entrenamiento derivó rápidamente en **intensos piques y enfrentamientos directos** en pista.
 
