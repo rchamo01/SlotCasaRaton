@@ -20,7 +20,9 @@
                 {%- else -%}
                     {%- assign url = footer_logo.url | relative_url -%}
                 {%- endif -%}
-                <img src="{{ url }}" alt="{{ footer_logo.title }}" class="logo {{ footer_logo.image | default: '' }}">
+                <a href="https://github.com/rchamo01/" target="_blank" rel="noopener noreferrer">
+                    <img src="{{ url }}" alt="{{ footer_logo.title }}" class="logo {{ footer_logo.image | default: '' }}">
+                </a>
             {%- endfor -%}
             {%- endif -%}
         </div>
