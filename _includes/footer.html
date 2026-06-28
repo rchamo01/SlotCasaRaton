@@ -20,9 +20,13 @@
                 {%- else -%}
                     {%- assign url = footer_logo.url | relative_url -%}
                 {%- endif -%}
-                <a href="https://github.com/rchamo01/" target="_blank" rel="noopener noreferrer">
+                {%- if footer_logo.link -%}
+                    <a href="{{ footer_logo.link }}" target="_blank" rel="noopener noreferrer">
+                        <img src="{{ url }}" alt="{{ footer_logo.title }}" class="logo {{ footer_logo.image | default: '' }}">
+                    </a>
+                {%- else -%}
                     <img src="{{ url }}" alt="{{ footer_logo.title }}" class="logo {{ footer_logo.image | default: '' }}">
-                </a>
+                {%- endif -%}
             {%- endfor -%}
             {%- endif -%}
         </div>
