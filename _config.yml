@@ -61,6 +61,7 @@ footer_links:
 footer_logos:
   - title: Logo Chamo Design
     url: /docs/images/Logo_chamo_design.png
+    link: https://github.com/rchamo01/
     image: 
   - title: Logo MaJos
     url: /docs/images/Logo_majos.png
