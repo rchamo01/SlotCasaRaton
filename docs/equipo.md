@@ -22,7 +22,7 @@ Descripción Luisma
 
 # Jose Manuel
 
-<img src="../docs/images/equipo/trofeo26.png" width="50" height="70"> 
+<img src="../docs/images/equipo/-trofeo26.png" width="50" height="70"> 
 
 <img src="../docs/images/equipo/stats_jose.png" width="150" height="150"> 
 
